@@ -1,3149 +1,3146 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d5" for="edge" attr.name="weight" attr.type="long" />
-  <key id="d4" for="node" attr.name="infomap" attr.type="long" />
-  <key id="d3" for="node" attr.name="louvain" attr.type="long" />
-  <key id="d2" for="node" attr.name="subcategory" attr.type="string" />
-  <key id="d1" for="node" attr.name="lean" attr.type="string" />
-  <key id="d0" for="node" attr.name="display_name" attr.type="string" />
-  <graph edgedefault="undirected">
-    <node id="O_Arestovich_official">
-      <data key="d0">Алексей Арестович</data>
-      <data key="d1">mixed</data>
-      <data key="d2">foreign_controversial</data>
-      <data key="d3">0</data>
-      <data key="d4">0</data>
-    </node>
-    <node id="tass_agency">
-      <data key="d0">ТАСС</data>
-      <data key="d1">neutral</data>
-      <data key="d2">state_media</data>
-      <data key="d3">25</data>
-      <data key="d4">1</data>
-    </node>
-    <node id="vatnoeboloto">
-      <data key="d0">Ватное болото</data>
-      <data key="d1">pro</data>
-      <data key="d2">Z_blogger</data>
-      <data key="d3">2</data>
-      <data key="d4">2</data>
-    </node>
-    <node id="ovdinfo">
-      <data key="d0">OVD-Info</data>
-      <data key="d1">anti</data>
-      <data key="d2">human_rights</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="meduzalive">
-      <data key="d0">Медуза — LIVE</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="aavst2022">
-      <data key="d0">Алексей Венедиктов</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">5</data>
-      <data key="d4">4</data>
-    </node>
-    <node id="MDaudov_95">
-      <data key="d0">ЛОРД (Делимханов Магомед)</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">25</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="martynov2021">
-      <data key="d0">МАРТЫНОВ</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">25</data>
-      <data key="d4">1</data>
-    </node>
-    <node id="kstati_p">
-      <data key="d0">КСТАТИ</data>
-      <data key="d1">pro</data>
-      <data key="d2">aggregator</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="news_kremlin">
-      <data key="d0">Кремль. Новости</data>
-      <data key="d1">pro</data>
-      <data key="d2">kremlin_pool</data>
-      <data key="d3">8</data>
-      <data key="d4">7</data>
-    </node>
-    <node id="SolovievLive">
-      <data key="d0">СОЛОВЬЁВ</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="kremlin_mother_expert">
-      <data key="d0">Кремлёвский мамковед</data>
-      <data key="d1">mixed</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="kompromat1online">
-      <data key="d0">К1 (Компромат)</data>
-      <data key="d1">mixed</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">11</data>
-      <data key="d4">9</data>
-    </node>
-    <node id="government_rus">
-      <data key="d0">Правительство России</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">8</data>
-      <data key="d4">10</data>
-    </node>
-    <node id="dimsmirnov175">
-      <data key="d0">Пул N3</data>
-      <data key="d1">pro</data>
-      <data key="d2">kremlin_pool</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="idelrealii">
-      <data key="d0">Idel.Реалии</data>
-      <data key="d1">anti</data>
-      <data key="d2">regional_rferl</data>
-      <data key="d3">13</data>
-      <data key="d4">11</data>
-    </node>
-    <node id="bbcrussian">
-      <data key="d0">BBC News Русская служба</data>
-      <data key="d1">neutral</data>
-      <data key="d2">foreign_media</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="polittemnik">
-      <data key="d0">Темник</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="severrealii">
-      <data key="d0">Север.Реалии</data>
-      <data key="d1">anti</data>
-      <data key="d2">regional_rferl</data>
-      <data key="d3">13</data>
-      <data key="d4">11</data>
-    </node>
-    <node id="warfakes">
-      <data key="d0">Война с фейками</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_aligned_factcheck</data>
-      <data key="d3">8</data>
-      <data key="d4">12</data>
-    </node>
-    <node id="rybar">
-      <data key="d0">Рыбарь</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="adelimkhanov_95">
-      <data key="d0">Адам Делимханов</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">25</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="slutsky_l">
-      <data key="d0">СЛУЦКИЙ</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="bazabazon">
-      <data key="d0">BAZA</data>
-      <data key="d1">pro</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="oabch">
-      <data key="d0">Одет аккуратно. Борода черная</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="auantonov">
-      <data key="d0">Антонов такой Антонов</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">25</data>
-      <data key="d4">1</data>
-    </node>
-    <node id="mod_russia">
-      <data key="d0">Минобороны России</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">8</data>
-      <data key="d4">7</data>
-    </node>
-    <node id="jolynews">
-      <data key="d0">Вестник Шевцова</data>
-      <data key="d1">pro</data>
-      <data key="d2">Z_blogger</data>
-      <data key="d3">18</data>
-      <data key="d4">13</data>
-    </node>
-    <node id="Sladkov_plus">
-      <data key="d0">Сладков+</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">25</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="politadequate">
-      <data key="d0">АДЕКВАТ Z</data>
-      <data key="d1">pro</data>
-      <data key="d2">Z_blogger</data>
-      <data key="d3">8</data>
-      <data key="d4">12</data>
-    </node>
-    <node id="khazinml">
-      <data key="d0">Хазин</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">8</data>
-      <data key="d4">12</data>
-    </node>
-    <node id="ksbchk">
-      <data key="d0">Ксения Собчак</data>
-      <data key="d1">mixed</data>
-      <data key="d2">controlled_opposition</data>
-      <data key="d3">19</data>
-      <data key="d4">14</data>
-    </node>
-    <node id="Putin_Tg_Russia_Novosti">
-      <data key="d0">ПУТИН в Telegram</data>
-      <data key="d1">pro</data>
-      <data key="d2">aggregator</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="ostorozhno_novosti">
-      <data key="d0">Осторожно, Новости</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">25</data>
-      <data key="d4">1</data>
-    </node>
-    <node id="opersvodki">
-      <data key="d0">Оперативные сводки</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">15</data>
-      <data key="d4">15</data>
-    </node>
-    <node id="vvgladkov">
-      <data key="d0">Настоящий Гладков</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="gubernator_46">
-      <data key="d0">Оперштаб Курской области</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">8</data>
-      <data key="d4">7</data>
-    </node>
-    <node id="mash">
-      <data key="d0">Mash</data>
-      <data key="d1">pro</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">21</data>
-      <data key="d4">16</data>
-    </node>
-    <node id="agentstvonews">
-      <data key="d0">Агентство</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">22</data>
-      <data key="d4">17</data>
-    </node>
-    <node id="obrazbuduschego2">
-      <data key="d0">Образ будущего</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="istories_media">
-      <data key="d0">iStories</data>
-      <data key="d1">anti</data>
-      <data key="d2">investigative_media</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="russicaRU">
-      <data key="d0">НЕЗЫГАРЬ</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="mysly">
-      <data key="d0">Мюсли вслух</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="team_milov">
-      <data key="d0">Команда Милова</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">24</data>
-      <data key="d4">18</data>
-    </node>
-    <node id="mardanaka">
-      <data key="d0">МАРДАН</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">25</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="MID_Russia">
-      <data key="d0">МИД России</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">8</data>
-      <data key="d4">10</data>
-    </node>
-    <node id="ToBeOr_Official">
-      <data key="d0">Быть Или</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">26</data>
-      <data key="d4">19</data>
-    </node>
-    <node id="truexanewsua">
-      <data key="d0">Труха</data>
-      <data key="d1">anti</data>
-      <data key="d2">foreign_political</data>
-      <data key="d3">27</data>
-      <data key="d4">20</data>
-    </node>
-    <node id="varlamov_news">
-      <data key="d0">Илья Варламов</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">28</data>
-      <data key="d4">21</data>
-    </node>
-    <node id="rian_ru">
-      <data key="d0">РИА Новости</data>
-      <data key="d1">neutral</data>
-      <data key="d2">state_media</data>
-      <data key="d3">25</data>
-      <data key="d4">22</data>
-    </node>
-    <node id="Tsaplienko">
-      <data key="d0">Андрей Цаплиенко</data>
-      <data key="d1">anti</data>
-      <data key="d2">foreign_voenkor</data>
-      <data key="d3">29</data>
-      <data key="d4">23</data>
-    </node>
-    <node id="insect_life">
-      <data key="d0">Жизнь насекомых</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="rian_novosti_russya">
-      <data key="d0">РУССКИЙ ФОРМАТ</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">30</data>
-      <data key="d4">24</data>
-    </node>
-    <node id="otsuka_bld">
-      <data key="d0">Дабл Ять</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">26</data>
-      <data key="d4">19</data>
-    </node>
-    <node id="ASGasparyan">
-      <data key="d0">ГАСПАРЯН</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="leonid_volkov">
-      <data key="d0">Леонид Волков</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="dimonundmir">
-      <data key="d0">Профессор Евстафьев</data>
-      <data key="d1">pro</data>
-      <data key="d2">analytical_intellectual</data>
-      <data key="d3">8</data>
-      <data key="d4">12</data>
-    </node>
-    <node id="ejdailyru">
-      <data key="d0">ЕЖ</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="mnogonazi">
-      <data key="d0">Многонационал</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="steven_bb">
-      <data key="d0">Друзья Дональда</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">7</data>
-      <data key="d4">25</data>
-    </node>
-    <node id="dmitrynikotin">
-      <data key="d0">Дмитрий Никотин</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="zakharprilepin">
-      <data key="d0">Захар Прилепин</data>
-      <data key="d1">pro</data>
-      <data key="d2">pro_radical</data>
-      <data key="d3">25</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="margaritasimonyan">
-      <data key="d0">Маргарита Симоньян</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">9</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="alexandrshtefanov">
-      <data key="d0">Александр Штефанов</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">32</data>
-      <data key="d4">26</data>
-    </node>
-    <node id="MariaVladimirovnaZakharova">
-      <data key="d0">Мария Захарова</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">9</data>
-      <data key="d4">10</data>
-    </node>
-    <node id="interfaxonline">
-      <data key="d0">Интерфакс</data>
-      <data key="d1">neutral</data>
-      <data key="d2">business_media</data>
-      <data key="d3">33</data>
-      <data key="d4">27</data>
-    </node>
-    <node id="maester">
-      <data key="d0">Мейстер</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="holodmedia">
-      <data key="d0">Холод</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">34</data>
-      <data key="d4">28</data>
-    </node>
-    <node id="currenttime">
-      <data key="d0">Настоящее Время</data>
-      <data key="d1">anti</data>
-      <data key="d2">foreign_media</data>
-      <data key="d3">13</data>
-      <data key="d4">11</data>
-    </node>
-    <node id="Rezident_ua">
-      <data key="d0">Резидент</data>
-      <data key="d1">pro</data>
-      <data key="d2">russian_IO_disguised_as_UA</data>
-      <data key="d3">35</data>
-      <data key="d4">29</data>
-    </node>
-    <node id="mos_sobyanin">
-      <data key="d0">Мэр Москвы Сергей Собянин</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="rlz_the_kraken">
-      <data key="d0">Выпускайте КракенаZ!</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="Putin_tramp_mobilizaciya_migrant">
-      <data key="d0">Fox News Russia</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">36</data>
-      <data key="d4">30</data>
-    </node>
-    <node id="strelkovii">
-      <data key="d0">Игорь Стрелков (Гиркин)</data>
-      <data key="d1">mixed</data>
-      <data key="d2">pro_radical</data>
-      <data key="d3">37</data>
-      <data key="d4">31</data>
-    </node>
-    <node id="politkremlin">
-      <data key="d0">Капитал</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="mkhusnullin">
-      <data key="d0">Марат Хуснуллин</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">8</data>
-      <data key="d4">10</data>
-    </node>
-    <node id="OP_UA">
-      <data key="d0">Офис президента Украины</data>
-      <data key="d1">anti</data>
-      <data key="d2">foreign_official</data>
-      <data key="d3">38</data>
-      <data key="d4">32</data>
-    </node>
-    <node id="aleksandr_skif">
-      <data key="d0">Александр Ходаковский</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="RKadyrov_95">
-      <data key="d0">Kadyrov_95</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">25</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="igor_artamonov48">
-      <data key="d0">Игорь Артамонов</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">39</data>
-      <data key="d4">33</data>
-    </node>
-    <node id="sotaproject">
-      <data key="d0">Сота</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">32</data>
-      <data key="d4">26</data>
-    </node>
-    <node id="Alexey_Pivo_varov">
-      <data key="d0">Алексей Пивоваров / Редакция</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">40</data>
-      <data key="d4">34</data>
-    </node>
-    <node id="yurydud">
-      <data key="d0">Юрий Дудь</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">41</data>
-      <data key="d4">35</data>
-    </node>
-    <node id="politjoystic">
-      <data key="d0">Политджойстик / Politjoystic</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="mig41">
-      <data key="d0">МИГ России</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="Yuri_Slusar">
-      <data key="d0">Юрий Слюсарь</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">42</data>
-      <data key="d4">36</data>
-    </node>
-    <node id="v_pastukhov">
-      <data key="d0">Vladimir Pastukhov</data>
-      <data key="d1">anti</data>
-      <data key="d2">analytical_intellectual</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="dmytrogordon_official">
-      <data key="d0">Дмитрий Гордон</data>
-      <data key="d1">anti</data>
-      <data key="d2">foreign_media</data>
-      <data key="d3">27</data>
-      <data key="d4">20</data>
-    </node>
-    <node id="Agdchan">
-      <data key="d0">Александр Дугин</data>
-      <data key="d1">pro</data>
-      <data key="d2">pro_radical</data>
-      <data key="d3">25</data>
-      <data key="d4">22</data>
-    </node>
-    <node id="republicmag">
-      <data key="d0">Republic</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">43</data>
-      <data key="d4">37</data>
-    </node>
-    <node id="svoboda_radio">
-      <data key="d0">Радио Свобода</data>
-      <data key="d1">anti</data>
-      <data key="d2">foreign_media</data>
-      <data key="d3">29</data>
-      <data key="d4">23</data>
-    </node>
-    <node id="kommersant">
-      <data key="d0">Коммерсантъ</data>
-      <data key="d1">neutral</data>
-      <data key="d2">business_media</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="protiktok">
-      <data key="d0">Политический обозреватель</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="AptiAlaudinovAKHMAT">
-      <data key="d0">Апти Алаудинов АХМАТ</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">25</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="thegraschenkov">
-      <data key="d0">The Гращенков</data>
-      <data key="d1">mixed</data>
-      <data key="d2">analytical_intellectual</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="GardeZ66">
-      <data key="d0">ШЕЙНИН</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">25</data>
-      <data key="d4">22</data>
-    </node>
-    <node id="mypervie">
-      <data key="d0">Движение Первых</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">1</data>
-      <data key="d4">38</data>
-    </node>
-    <node id="boris_rozhin">
-      <data key="d0">Colonelcassad</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">8</data>
-      <data key="d4">12</data>
-    </node>
-    <node id="temalebedev">
-      <data key="d0">Артемий Лебедев</data>
-      <data key="d1">pro</data>
-      <data key="d2">pro_celebrity</data>
-      <data key="d3">25</data>
-      <data key="d4">1</data>
-    </node>
-    <node id="readovkanews">
-      <data key="d0">Readovka</data>
-      <data key="d1">pro</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">16</data>
-      <data key="d4">12</data>
-    </node>
-    <node id="legitimniy">
-      <data key="d0">Легитимный</data>
-      <data key="d1">pro</data>
-      <data key="d2">russian_IO_disguised_as_UA</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="generalsvr">
-      <data key="d0">Генерал СВР</data>
-      <data key="d1">mixed</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">3</data>
-      <data key="d4">39</data>
-    </node>
-    <node id="RVvoenkor">
-      <data key="d0">Операция Z: Военкоры Русской Весны</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="paperpaper_ru">
-      <data key="d0">Бумага</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">4</data>
-      <data key="d4">40</data>
-    </node>
-    <node id="orda_mordora">
-      <data key="d0">Орда</data>
-      <data key="d1">pro</data>
-      <data key="d2">Z_blogger</data>
-      <data key="d3">6</data>
-      <data key="d4">41</data>
-    </node>
-    <node id="kavkazrealii">
-      <data key="d0">Кавказ.Реалии</data>
-      <data key="d1">anti</data>
-      <data key="d2">regional_rferl</data>
-      <data key="d3">13</data>
-      <data key="d4">11</data>
-    </node>
-    <node id="Sandymustache">
-      <data key="d0">Усы Пескова</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">26</data>
-      <data key="d4">19</data>
-    </node>
-    <node id="iditelesom_help">
-      <data key="d0">Идите лесом</data>
-      <data key="d1">anti</data>
-      <data key="d2">antiwar_activism</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="Hinshtein">
-      <data key="d0">Александр Хинштейн</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">9</data>
-      <data key="d4">42</data>
-    </node>
-    <node id="fontankaspb">
-      <data key="d0">Фонтанка - СПб</data>
-      <data key="d1">neutral</data>
-      <data key="d2">regional_independent</data>
-      <data key="d3">23</data>
-      <data key="d4">43</data>
-    </node>
-    <node id="NeoficialniyBeZsonoV">
-      <data key="d0">Неофициальный Безсонов</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">15</data>
-      <data key="d4">15</data>
-    </node>
-    <node id="vr_medinskiy">
-      <data key="d0">Владимир Мединский</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="solodovnikovia">
-      <data key="d0">Солодовников. Кратко</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">9</data>
-      <data key="d4">42</data>
-    </node>
-    <node id="MedvedevVesti">
-      <data key="d0">Андрей Медведев</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="obshina_ru">
-      <data key="d0">Русская Община ZOV</data>
-      <data key="d1">pro</data>
-      <data key="d2">Z_blogger</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="vv_volodin">
-      <data key="d0">Вячеслав Володин</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="mchs_official">
-      <data key="d0">МЧС России</data>
-      <data key="d1">pro</data>
-      <data key="d2">state_official</data>
-      <data key="d3">8</data>
-      <data key="d4">10</data>
-    </node>
-    <node id="slvn_pomet">
-      <data key="d0">Соловьиный Помёт</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">12</data>
-      <data key="d4">44</data>
-    </node>
-    <node id="Rrussiansword">
-      <data key="d0">Русский меч</data>
-      <data key="d1">pro</data>
-      <data key="d2">Z_blogger</data>
-      <data key="d3">10</data>
-      <data key="d4">45</data>
-    </node>
-    <node id="femagainstwar">
-      <data key="d0">Феминистское антивоенное сопротивление</data>
-      <data key="d1">anti</data>
-      <data key="d2">antiwar_activism</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="rbc_news">
-      <data key="d0">РБК</data>
-      <data key="d1">neutral</data>
-      <data key="d2">business_media</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="vladlentatarsky">
-      <data key="d0">Владлен Татарский</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="tvrain">
-      <data key="d0">Дождь</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">14</data>
-      <data key="d4">46</data>
-    </node>
-    <node id="vedomosti">
-      <data key="d0">Ведомости</data>
-      <data key="d1">neutral</data>
-      <data key="d2">business_media</data>
-      <data key="d3">10</data>
-      <data key="d4">10</data>
-    </node>
-    <node id="voenkorKotenok">
-      <data key="d0">Военкор Котенок</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="sparkhomenkovoice">
-      <data key="d0">Сергей Пархоменко</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="dshrg2">
-      <data key="d0">ДШРГ Русич</data>
-      <data key="d1">pro</data>
-      <data key="d2">pro_radical</data>
-      <data key="d3">10</data>
-      <data key="d4">45</data>
-    </node>
-    <node id="tanya_f">
-      <data key="d0">Татьяна Фельгенгауэр</data>
-      <data key="d1">anti</data>
-      <data key="d2">independent_media</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="ngs_news">
-      <data key="d0">НГС - Новосибирск</data>
-      <data key="d1">neutral</data>
-      <data key="d2">regional_independent</data>
-      <data key="d3">23</data>
-      <data key="d4">43</data>
-    </node>
-    <node id="Russiacalling">
-      <data key="d0">Вован и Лексус</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">9</data>
-      <data key="d4">5</data>
-    </node>
-    <node id="Taynaya_kantselyariya">
-      <data key="d0">Тайная канцелярия</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">10</data>
-      <data key="d4">6</data>
-    </node>
-    <node id="e1_news">
-      <data key="d0">Е1.RU - Екатеринбург</data>
-      <data key="d1">neutral</data>
-      <data key="d2">regional_independent</data>
-      <data key="d3">23</data>
-      <data key="d4">43</data>
-    </node>
-    <node id="hellotransfer">
-      <data key="d0">Навстречу Трансферу</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">7</data>
-      <data key="d4">25</data>
-    </node>
-    <node id="epoddubny">
-      <data key="d0">Евгений Поддубный</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="dosye_sk">
-      <data key="d0">Досье. Секретный контур</data>
-      <data key="d1">mixed</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">17</data>
-      <data key="d4">47</data>
-    </node>
-    <node id="rustroyka1945">
-      <data key="d0">ТРОЙКА</data>
-      <data key="d1">pro</data>
-      <data key="d2">anonymous_political</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="SergeyKolyasnikov">
-      <data key="d0">ZERGULIO</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="maximkatz">
-      <data key="d0">Максим Кац</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">23</data>
-      <data key="d4">3</data>
-    </node>
-    <node id="eschulmann">
-      <data key="d0">Екатерина Шульман</data>
-      <data key="d1">anti</data>
-      <data key="d2">opposition</data>
-      <data key="d3">20</data>
-      <data key="d4">48</data>
-    </node>
-    <node id="sibrealii">
-      <data key="d0">Сибирь.Реалии</data>
-      <data key="d1">anti</data>
-      <data key="d2">regional_rferl</data>
-      <data key="d3">13</data>
-      <data key="d4">11</data>
-    </node>
-    <node id="razvozhaev">
-      <data key="d0">РаZVожаев</data>
-      <data key="d1">pro</data>
-      <data key="d2">politician</data>
-      <data key="d3">31</data>
-      <data key="d4">49</data>
-    </node>
-    <node id="vysokygovorit">
-      <data key="d0">Старше Эдды</data>
-      <data key="d1">pro</data>
-      <data key="d2">voenkor</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="nikitabsg">
-      <data key="d0">БЕСОГОН (Михалков)</data>
-      <data key="d1">pro</data>
-      <data key="d2">pro_celebrity</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <node id="skabeeva">
-      <data key="d0">Скабеева</data>
-      <data key="d1">pro</data>
-      <data key="d2">propagandist</data>
-      <data key="d3">16</data>
-      <data key="d4">8</data>
-    </node>
-    <edge source="tass_agency" target="martynov2021">
-      <data key="d5">18</data>
-    </edge>
-    <edge source="tass_agency" target="GardeZ66">
-      <data key="d5">25</data>
-    </edge>
-    <edge source="tass_agency" target="Agdchan">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="tass_agency" target="obrazbuduschego2">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="tass_agency" target="zakharprilepin">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="tass_agency" target="polittemnik">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="tass_agency" target="kstati_p">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="tass_agency" target="AptiAlaudinovAKHMAT">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="tass_agency" target="boris_rozhin">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="tass_agency" target="vladlentatarsky">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="tass_agency" target="thegraschenkov">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="tass_agency" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="tass_agency" target="SolovievLive">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="tass_agency" target="MariaVladimirovnaZakharova">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="tass_agency" target="slutsky_l">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="tass_agency" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="tass_agency" target="warfakes">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="tass_agency" target="tvrain">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="tass_agency" target="currenttime">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="tass_agency" target="agentstvonews">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="tass_agency" target="sotaproject">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="tass_agency" target="dmytrogordon_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="tass_agency" target="istories_media">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="tass_agency" target="paperpaper_ru">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="tass_agency" target="fontankaspb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ovdinfo" target="sotaproject">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ovdinfo" target="meduzalive">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ovdinfo" target="severrealii">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ovdinfo" target="tvrain">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="news_kremlin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="truexanewsua">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="meduzalive" target="rybar">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="currenttime">
-      <data key="d5">22</data>
-    </edge>
-    <edge source="meduzalive" target="SolovievLive">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="meduzalive" target="Rezident_ua">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="mig41">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="meduzalive" target="tvrain">
-      <data key="d5">61</data>
-    </edge>
-    <edge source="meduzalive" target="sotaproject">
-      <data key="d5">34</data>
-    </edge>
-    <edge source="meduzalive" target="istories_media">
-      <data key="d5">41</data>
-    </edge>
-    <edge source="meduzalive" target="paperpaper_ru">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="meduzalive" target="eschulmann">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="interfaxonline">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="meduzalive" target="bazabazon">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="meduzalive" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="meduzalive" target="slvn_pomet">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="holodmedia">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="meduzalive" target="agentstvonews">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="meduzalive" target="kompromat1online">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="vedomosti">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="meduzalive" target="Tsaplienko">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="meduzalive" target="ToBeOr_Official">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="meduzalive" target="ejdailyru">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="meduzalive" target="dshrg2">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="meduzalive" target="femagainstwar">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="meduzalive" target="maximkatz">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="dmytrogordon_official">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="meduzalive" target="bbcrussian">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="meduzalive" target="kommersant">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="meduzalive" target="svoboda_radio">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="meduzalive" target="sibrealii">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="meduzalive" target="severrealii">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="aavst2022" target="rian_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="mod_russia">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="martynov2021" target="mysly">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="ASGasparyan">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="martynov2021" target="vysokygovorit">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="news_kremlin">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="martynov2021" target="politjoystic">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="martynov2021" target="dimonundmir">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="martynov2021" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="martynov2021" target="zakharprilepin">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="martynov2021" target="SolovievLive">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="martynov2021" target="protiktok">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="mardanaka">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="NeoficialniyBeZsonoV">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="opersvodki">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="MID_Russia">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="martynov2021" target="MariaVladimirovnaZakharova">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="martynov2021" target="rian_ru">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="kstati_p" target="SolovievLive">
-      <data key="d5">20</data>
-    </edge>
-    <edge source="kstati_p" target="protiktok">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kstati_p" target="ASGasparyan">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kstati_p" target="SergeyKolyasnikov">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kstati_p" target="mardanaka">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="kstati_p" target="dimsmirnov175">
-      <data key="d5">147</data>
-    </edge>
-    <edge source="kstati_p" target="politjoystic">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="kstati_p" target="polittemnik">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kstati_p" target="ejdailyru">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="kstati_p" target="mig41">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="kstati_p" target="rlz_the_kraken">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="kstati_p" target="vysokygovorit">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="kstati_p" target="dmitrynikotin">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="kstati_p" target="warfakes">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="kstati_p" target="obrazbuduschego2">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="kstati_p" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="kstati_p" target="istories_media">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kstati_p" target="currenttime">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kstati_p" target="dmytrogordon_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kstati_p" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kstati_p" target="russicaRU">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kstati_p" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="news_kremlin" target="mod_russia">
-      <data key="d5">75</data>
-    </edge>
-    <edge source="news_kremlin" target="MID_Russia">
-      <data key="d5">21</data>
-    </edge>
-    <edge source="news_kremlin" target="agentstvonews">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="news_kremlin" target="politjoystic">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="news_kremlin" target="dmytrogordon_official">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="news_kremlin" target="severrealii">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="news_kremlin" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="news_kremlin" target="sotaproject">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="news_kremlin" target="zakharprilepin">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="news_kremlin" target="currenttime">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="news_kremlin" target="AptiAlaudinovAKHMAT">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="news_kremlin" target="istories_media">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="news_kremlin" target="boris_rozhin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="news_kremlin" target="SolovievLive">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="epoddubny">
-      <data key="d5">55</data>
-    </edge>
-    <edge source="SolovievLive" target="ASGasparyan">
-      <data key="d5">94</data>
-    </edge>
-    <edge source="SolovievLive" target="mardanaka">
-      <data key="d5">64</data>
-    </edge>
-    <edge source="SolovievLive" target="zakharprilepin">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="SolovievLive" target="rybar">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="SolovievLive" target="protiktok">
-      <data key="d5">20</data>
-    </edge>
-    <edge source="SolovievLive" target="SergeyKolyasnikov">
-      <data key="d5">28</data>
-    </edge>
-    <edge source="SolovievLive" target="politjoystic">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="SolovievLive" target="dimsmirnov175">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="SolovievLive" target="polittemnik">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="SolovievLive" target="AptiAlaudinovAKHMAT">
-      <data key="d5">571</data>
-    </edge>
-    <edge source="SolovievLive" target="MedvedevVesti">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="SolovievLive" target="vysokygovorit">
-      <data key="d5">33</data>
-    </edge>
-    <edge source="SolovievLive" target="mysly">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="SolovievLive" target="mig41">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="SolovievLive" target="dimonundmir">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="SolovievLive" target="thegraschenkov">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="SolovievLive" target="rlz_the_kraken">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="SolovievLive" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="SolovievLive" target="government_rus">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="SolovievLive" target="mod_russia">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="SolovievLive" target="boris_rozhin">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="SolovievLive" target="vv_volodin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="MariaVladimirovnaZakharova">
-      <data key="d5">61</data>
-    </edge>
-    <edge source="SolovievLive" target="vr_medinskiy">
-      <data key="d5">33</data>
-    </edge>
-    <edge source="SolovievLive" target="slutsky_l">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="SolovievLive" target="mos_sobyanin">
-      <data key="d5">45</data>
-    </edge>
-    <edge source="SolovievLive" target="MID_Russia">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="SolovievLive" target="margaritasimonyan">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="SolovievLive" target="ejdailyru">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="SolovievLive" target="Hinshtein">
-      <data key="d5">19</data>
-    </edge>
-    <edge source="SolovievLive" target="gubernator_46">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="skabeeva">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="SolovievLive" target="vedomosti">
-      <data key="d5">12</data>
-    </edge>
-    <edge source="SolovievLive" target="Sandymustache">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="adelimkhanov_95">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="istories_media">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="SolovievLive" target="dmytrogordon_official">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="SolovievLive" target="Taynaya_kantselyariya">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="SolovievLive" target="Russiacalling">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="SolovievLive" target="kremlin_mother_expert">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="SolovievLive" target="truexanewsua">
-      <data key="d5">25</data>
-    </edge>
-    <edge source="SolovievLive" target="sotaproject">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="SolovievLive" target="Tsaplienko">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="SolovievLive" target="vvgladkov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="Rezident_ua">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="SolovievLive" target="RVvoenkor">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="SolovievLive" target="tvrain">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="SolovievLive" target="ToBeOr_Official">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="SolovievLive" target="currenttime">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="SolovievLive" target="kompromat1online">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="bbcrussian">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="SolovievLive" target="warfakes">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="SolovievLive" target="khazinml">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="paperpaper_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="SolovievLive" target="agentstvonews">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="dimsmirnov175">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="rlz_the_kraken">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="agentstvonews">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="istories_media">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="svoboda_radio">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="Tsaplienko">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="currenttime">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="ToBeOr_Official">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="kremlin_mother_expert" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kompromat1online" target="tvrain">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kompromat1online" target="sotaproject">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kompromat1online" target="istories_media">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="government_rus" target="MID_Russia">
-      <data key="d5">41</data>
-    </edge>
-    <edge source="government_rus" target="politjoystic">
-      <data key="d5">41</data>
-    </edge>
-    <edge source="government_rus" target="mchs_official">
-      <data key="d5">18</data>
-    </edge>
-    <edge source="government_rus" target="solodovnikovia">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="government_rus" target="mkhusnullin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="government_rus" target="dimsmirnov175">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dimsmirnov175" target="politjoystic">
-      <data key="d5">36</data>
-    </edge>
-    <edge source="dimsmirnov175" target="ASGasparyan">
-      <data key="d5">12</data>
-    </edge>
-    <edge source="dimsmirnov175" target="mardanaka">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="dimsmirnov175" target="ejdailyru">
-      <data key="d5">27</data>
-    </edge>
-    <edge source="dimsmirnov175" target="obrazbuduschego2">
-      <data key="d5">22</data>
-    </edge>
-    <edge source="dimsmirnov175" target="hellotransfer">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="dimsmirnov175" target="russicaRU">
-      <data key="d5">38</data>
-    </edge>
-    <edge source="dimsmirnov175" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="dimsmirnov175" target="maester">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="dimsmirnov175" target="rlz_the_kraken">
-      <data key="d5">21</data>
-    </edge>
-    <edge source="dimsmirnov175" target="AptiAlaudinovAKHMAT">
-      <data key="d5">19</data>
-    </edge>
-    <edge source="dimsmirnov175" target="politadequate">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="dimsmirnov175" target="zakharprilepin">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="dimsmirnov175" target="SergeyKolyasnikov">
-      <data key="d5">15</data>
-    </edge>
-    <edge source="dimsmirnov175" target="polittemnik">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="dimsmirnov175" target="vysokygovorit">
-      <data key="d5">12</data>
-    </edge>
-    <edge source="dimsmirnov175" target="mos_sobyanin">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="dimsmirnov175" target="dimonundmir">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dimsmirnov175" target="mig41">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="dimsmirnov175" target="ostorozhno_novosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dimsmirnov175" target="thegraschenkov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dimsmirnov175" target="Taynaya_kantselyariya">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dimsmirnov175" target="opersvodki">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dimsmirnov175" target="ToBeOr_Official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dimsmirnov175" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="idelrealii" target="sotaproject">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="idelrealii" target="currenttime">
-      <data key="d5">19</data>
-    </edge>
-    <edge source="idelrealii" target="sibrealii">
-      <data key="d5">61</data>
-    </edge>
-    <edge source="idelrealii" target="severrealii">
-      <data key="d5">89</data>
-    </edge>
-    <edge source="idelrealii" target="holodmedia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="idelrealii" target="bbcrussian">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="idelrealii" target="istories_media">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="bbcrussian" target="istories_media">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="bbcrussian" target="sibrealii">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="bbcrussian" target="severrealii">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="bbcrussian" target="tvrain">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="bbcrussian" target="sotaproject">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="bbcrussian" target="truexanewsua">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="bbcrussian" target="ToBeOr_Official">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="bbcrussian" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="bbcrussian" target="currenttime">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="bbcrussian" target="dmytrogordon_official">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="bbcrussian" target="Tsaplienko">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="bbcrussian" target="tanya_f">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="bbcrussian" target="agentstvonews">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="bbcrussian" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="bbcrussian" target="holodmedia">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="bbcrussian" target="svoboda_radio">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="mardanaka">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="russicaRU">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="mysly">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="polittemnik" target="politadequate">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="Taynaya_kantselyariya">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="polittemnik" target="obrazbuduschego2">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="dimonundmir">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="rbc_news">
-      <data key="d5">16</data>
-    </edge>
-    <edge source="polittemnik" target="politjoystic">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="polittemnik" target="MID_Russia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="polittemnik" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="severrealii" target="sibrealii">
-      <data key="d5">695</data>
-    </edge>
-    <edge source="severrealii" target="currenttime">
-      <data key="d5">63</data>
-    </edge>
-    <edge source="severrealii" target="agentstvonews">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="severrealii" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="severrealii" target="sotaproject">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="severrealii" target="tvrain">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="severrealii" target="istories_media">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="severrealii" target="vedomosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="severrealii" target="paperpaper_ru">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="severrealii" target="svoboda_radio">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="severrealii" target="femagainstwar">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="severrealii" target="rbc_news">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="severrealii" target="rian_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="warfakes" target="mod_russia">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="warfakes" target="khazinml">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="warfakes" target="dmitrynikotin">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="warfakes" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="warfakes" target="mardanaka">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="warfakes" target="boris_rozhin">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="warfakes" target="readovkanews">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="rybar" target="epoddubny">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rybar" target="NeoficialniyBeZsonoV">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="rybar" target="opersvodki">
-      <data key="d5">37</data>
-    </edge>
-    <edge source="rybar" target="MedvedevVesti">
-      <data key="d5">103</data>
-    </edge>
-    <edge source="rybar" target="vysokygovorit">
-      <data key="d5">150</data>
-    </edge>
-    <edge source="rybar" target="mig41">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="rybar" target="voenkorKotenok">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="rybar" target="readovkanews">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rybar" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rybar" target="tvrain">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rybar" target="razvozhaev">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="rybar" target="currenttime">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="rybar" target="ToBeOr_Official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rybar" target="truexanewsua">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="slutsky_l" target="dimonundmir">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="slutsky_l" target="vysokygovorit">
-      <data key="d5">37</data>
-    </edge>
-    <edge source="slutsky_l" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">12</data>
-    </edge>
-    <edge source="slutsky_l" target="MID_Russia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="bazabazon" target="interfaxonline">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="bazabazon" target="tvrain">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="bazabazon" target="sotaproject">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="bazabazon" target="istories_media">
-      <data key="d5">12</data>
-    </edge>
-    <edge source="bazabazon" target="Putin_Tg_Russia_Novosti">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="auantonov" target="truexanewsua">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="auantonov" target="Tsaplienko">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="auantonov" target="MedvedevVesti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mod_russia" target="MID_Russia">
-      <data key="d5">44</data>
-    </edge>
-    <edge source="mod_russia" target="gubernator_46">
-      <data key="d5">103</data>
-    </edge>
-    <edge source="mod_russia" target="boris_rozhin">
-      <data key="d5">12</data>
-    </edge>
-    <edge source="mod_russia" target="epoddubny">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="mod_russia" target="politjoystic">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mod_russia" target="GardeZ66">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mod_russia" target="readovkanews">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mod_russia" target="AptiAlaudinovAKHMAT">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mod_russia" target="tvrain">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mod_russia" target="politadequate">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="jolynews" target="dmytrogordon_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="jolynews" target="Tsaplienko">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="jolynews" target="ToBeOr_Official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Sladkov_plus" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="politadequate" target="ejdailyru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="politadequate" target="steven_bb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="politadequate" target="mysly">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="politadequate" target="boris_rozhin">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="politadequate" target="ASGasparyan">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="politadequate" target="sotaproject">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="khazinml" target="ASGasparyan">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ksbchk" target="ostorozhno_novosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="AptiAlaudinovAKHMAT">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="vysokygovorit">
-      <data key="d5">27</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="dimonundmir">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="dmytrogordon_official">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="rlz_the_kraken">
-      <data key="d5">25</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="ASGasparyan">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="sotaproject">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="istories_media">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="paperpaper_ru">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="ejdailyru">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="Putin_tramp_mobilizaciya_migrant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="rian_ru">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="dosye_sk">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="rbc_news">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="tvrain">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="truexanewsua">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="holodmedia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Putin_Tg_Russia_Novosti" target="agentstvonews">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ostorozhno_novosti" target="readovkanews">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="opersvodki" target="RVvoenkor">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="opersvodki" target="boris_rozhin">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="opersvodki" target="NeoficialniyBeZsonoV">
-      <data key="d5">62</data>
-    </edge>
-    <edge source="opersvodki" target="MedvedevVesti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="opersvodki" target="Hinshtein">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="opersvodki" target="rustroyka1945">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="opersvodki" target="mig41">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="opersvodki" target="readovkanews">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="opersvodki" target="voenkorKotenok">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="opersvodki" target="ASGasparyan">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="gubernator_46" target="Hinshtein">
-      <data key="d5">81</data>
-    </edge>
-    <edge source="mash" target="vladlentatarsky">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mash" target="MedvedevVesti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="agentstvonews" target="MID_Russia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="agentstvonews" target="svoboda_radio">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="agentstvonews" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="agentstvonews" target="russicaRU">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="agentstvonews" target="Tsaplienko">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="agentstvonews" target="istories_media">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="agentstvonews" target="sibrealii">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="agentstvonews" target="tvrain">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="agentstvonews" target="currenttime">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="agentstvonews" target="ejdailyru">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="agentstvonews" target="varlamov_news">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="agentstvonews" target="femagainstwar">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="agentstvonews" target="sotaproject">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="agentstvonews" target="vedomosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="agentstvonews" target="truexanewsua">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="agentstvonews" target="paperpaper_ru">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="agentstvonews" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="agentstvonews" target="dmytrogordon_official">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="agentstvonews" target="ToBeOr_Official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="agentstvonews" target="fontankaspb">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="agentstvonews" target="interfaxonline">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="obrazbuduschego2" target="russicaRU">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="obrazbuduschego2" target="ejdailyru">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="obrazbuduschego2" target="politjoystic">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="obrazbuduschego2" target="hellotransfer">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="obrazbuduschego2" target="otsuka_bld">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="obrazbuduschego2" target="kommersant">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="istories_media" target="tvrain">
-      <data key="d5">52</data>
-    </edge>
-    <edge source="istories_media" target="ToBeOr_Official">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="istories_media" target="protiktok">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="currenttime">
-      <data key="d5">45</data>
-    </edge>
-    <edge source="istories_media" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="sotaproject">
-      <data key="d5">52</data>
-    </edge>
-    <edge source="istories_media" target="paperpaper_ru">
-      <data key="d5">21</data>
-    </edge>
-    <edge source="istories_media" target="ejdailyru">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="istories_media" target="politjoystic">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="istories_media" target="dmytrogordon_official">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="istories_media" target="MID_Russia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="MariaVladimirovnaZakharova">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="vedomosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="istories_media" target="truexanewsua">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="istories_media" target="femagainstwar">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="istories_media" target="eschulmann">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="svoboda_radio">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="istories_media" target="sibrealii">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="istories_media" target="rbc_news">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="istories_media" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="rian_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="Tsaplienko">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="istories_media" target="iditelesom_help">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="istories_media" target="fontankaspb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="russicaRU" target="mysly">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="russicaRU" target="ejdailyru">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="russicaRU" target="zakharprilepin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="russicaRU" target="mig41">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="russicaRU" target="politjoystic">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="russicaRU" target="e1_news">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="russicaRU" target="tvrain">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="russicaRU" target="currenttime">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="russicaRU" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="russicaRU" target="mardanaka">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="russicaRU" target="fontankaspb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mysly" target="ASGasparyan">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="mysly" target="epoddubny">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="mysly" target="vysokygovorit">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mysly" target="zakharprilepin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mysly" target="margaritasimonyan">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mysly" target="mos_sobyanin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mysly" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mysly" target="hellotransfer">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mysly" target="steven_bb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mysly" target="ejdailyru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="team_milov" target="dmytrogordon_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="team_milov" target="rbc_news">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="SergeyKolyasnikov">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="mardanaka" target="ASGasparyan">
-      <data key="d5">22</data>
-    </edge>
-    <edge source="mardanaka" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="protiktok">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mardanaka" target="Agdchan">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="mardanaka" target="currenttime">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="dmytrogordon_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="sotaproject">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="thegraschenkov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="maester">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mardanaka" target="tvrain">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mardanaka" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="ejdailyru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mardanaka" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MID_Russia" target="politjoystic">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="MID_Russia" target="GardeZ66">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="MID_Russia" target="sotaproject">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MID_Russia" target="boris_rozhin">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="MID_Russia" target="MariaVladimirovnaZakharova">
-      <data key="d5">248</data>
-    </edge>
-    <edge source="MID_Russia" target="currenttime">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MID_Russia" target="mchs_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MID_Russia" target="rian_ru">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="MID_Russia" target="zakharprilepin">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="dmytrogordon_official">
-      <data key="d5">22</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="tvrain">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="svoboda_radio">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="currenttime">
-      <data key="d5">23</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="truexanewsua">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="sotaproject">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="Tsaplienko">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="femagainstwar">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="paperpaper_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ToBeOr_Official" target="otsuka_bld">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="truexanewsua" target="tvrain">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="truexanewsua" target="Tsaplienko">
-      <data key="d5">45</data>
-    </edge>
-    <edge source="truexanewsua" target="RVvoenkor">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="truexanewsua" target="mig41">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="truexanewsua" target="dmytrogordon_official">
-      <data key="d5">62</data>
-    </edge>
-    <edge source="truexanewsua" target="currenttime">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="truexanewsua" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="truexanewsua" target="ejdailyru">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="truexanewsua" target="Rezident_ua">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="truexanewsua" target="svoboda_radio">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="truexanewsua" target="sotaproject">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="varlamov_news" target="tvrain">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="varlamov_news" target="ejdailyru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="varlamov_news" target="tanya_f">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rian_ru" target="boris_rozhin">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="rian_ru" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rian_ru" target="Agdchan">
-      <data key="d5">42</data>
-    </edge>
-    <edge source="rian_ru" target="politjoystic">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="rian_ru" target="GardeZ66">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="rian_ru" target="ejdailyru">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="rian_ru" target="fontankaspb">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="rian_ru" target="tvrain">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="rian_ru" target="AptiAlaudinovAKHMAT">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="Tsaplienko" target="tvrain">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="Tsaplienko" target="RVvoenkor">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="Tsaplienko" target="sotaproject">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="Tsaplienko" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Tsaplienko" target="ejdailyru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Tsaplienko" target="dmytrogordon_official">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="Tsaplienko" target="svoboda_radio">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="Tsaplienko" target="currenttime">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="otsuka_bld" target="Sandymustache">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ASGasparyan" target="SergeyKolyasnikov">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="ASGasparyan" target="politjoystic">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="ASGasparyan" target="protiktok">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ASGasparyan" target="vysokygovorit">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="ASGasparyan" target="zakharprilepin">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="ASGasparyan" target="mos_sobyanin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ASGasparyan" target="dimonundmir">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ASGasparyan" target="hellotransfer">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ASGasparyan" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ASGasparyan" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ASGasparyan" target="vr_medinskiy">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ASGasparyan" target="ejdailyru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ASGasparyan" target="dmitrynikotin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="leonid_volkov" target="sotaproject">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="dimonundmir" target="vysokygovorit">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="dimonundmir" target="zakharprilepin">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="dimonundmir" target="epoddubny">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="ejdailyru" target="hellotransfer">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ejdailyru" target="epoddubny">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="ejdailyru" target="steven_bb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="vysokygovorit">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="ejdailyru" target="AptiAlaudinovAKHMAT">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="sotaproject">
-      <data key="d5">15</data>
-    </edge>
-    <edge source="ejdailyru" target="politjoystic">
-      <data key="d5">12</data>
-    </edge>
-    <edge source="ejdailyru" target="sibrealii">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="SergeyKolyasnikov">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ejdailyru" target="Taynaya_kantselyariya">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="tvrain">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="ejdailyru" target="mig41">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="ejdailyru" target="rbc_news">
-      <data key="d5">54</data>
-    </edge>
-    <edge source="ejdailyru" target="maester">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="kommersant">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="ejdailyru" target="femagainstwar">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="interfaxonline">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="GardeZ66">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="vedomosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ejdailyru" target="currenttime">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="ejdailyru" target="tanya_f">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="steven_bb" target="mos_sobyanin">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="steven_bb" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="steven_bb" target="hellotransfer">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="zakharprilepin" target="AptiAlaudinovAKHMAT">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="zakharprilepin" target="boris_rozhin">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="zakharprilepin" target="vysokygovorit">
-      <data key="d5">24</data>
-    </edge>
-    <edge source="zakharprilepin" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="zakharprilepin" target="epoddubny">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="zakharprilepin" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="zakharprilepin" target="rlz_the_kraken">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="zakharprilepin" target="Agdchan">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="margaritasimonyan" target="MariaVladimirovnaZakharova">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MariaVladimirovnaZakharova" target="vedomosti">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="MariaVladimirovnaZakharova" target="AptiAlaudinovAKHMAT">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="MariaVladimirovnaZakharova" target="NeoficialniyBeZsonoV">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MariaVladimirovnaZakharova" target="currenttime">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MariaVladimirovnaZakharova" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="interfaxonline" target="sotaproject">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="interfaxonline" target="femagainstwar">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="interfaxonline" target="tvrain">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="maester" target="politjoystic">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="maester" target="GardeZ66">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="holodmedia" target="paperpaper_ru">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="holodmedia" target="tvrain">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="holodmedia" target="sibrealii">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="holodmedia" target="femagainstwar">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="currenttime" target="sibrealii">
-      <data key="d5">43</data>
-    </edge>
-    <edge source="currenttime" target="tvrain">
-      <data key="d5">75</data>
-    </edge>
-    <edge source="currenttime" target="dmytrogordon_official">
-      <data key="d5">30</data>
-    </edge>
-    <edge source="currenttime" target="protiktok">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="currenttime" target="mig41">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="currenttime" target="sotaproject">
-      <data key="d5">45</data>
-    </edge>
-    <edge source="currenttime" target="paperpaper_ru">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="currenttime" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="currenttime" target="svoboda_radio">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="currenttime" target="vedomosti">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="currenttime" target="femagainstwar">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="currenttime" target="eschulmann">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="currenttime" target="rbc_news">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="currenttime" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Rezident_ua" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mos_sobyanin" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mos_sobyanin" target="hellotransfer">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mos_sobyanin" target="solodovnikovia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mos_sobyanin" target="vysokygovorit">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="AptiAlaudinovAKHMAT">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="vv_volodin">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="vysokygovorit">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="SergeyKolyasnikov">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="mig41">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="MedvedevVesti">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="rustroyka1945">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="rlz_the_kraken" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mkhusnullin" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="aleksandr_skif" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="RKadyrov_95" target="AptiAlaudinovAKHMAT">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="sotaproject" target="tvrain">
-      <data key="d5">74</data>
-    </edge>
-    <edge source="sotaproject" target="dmytrogordon_official">
-      <data key="d5">15</data>
-    </edge>
-    <edge source="sotaproject" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="sotaproject" target="paperpaper_ru">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="sotaproject" target="sibrealii">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="sotaproject" target="thegraschenkov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="sotaproject" target="readovkanews">
-      <data key="d5">10</data>
-    </edge>
-    <edge source="sotaproject" target="razvozhaev">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="sotaproject" target="politjoystic">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="sotaproject" target="vedomosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="sotaproject" target="svoboda_radio">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="sotaproject" target="kommersant">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="sotaproject" target="rbc_news">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="sotaproject" target="femagainstwar">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="sotaproject" target="GardeZ66">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="sotaproject" target="fontankaspb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="politjoystic" target="mchs_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="politjoystic" target="hellotransfer">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="politjoystic" target="mig41">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="politjoystic" target="thegraschenkov">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="politjoystic" target="dmytrogordon_official">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mig41" target="RVvoenkor">
-      <data key="d5">18</data>
-    </edge>
-    <edge source="mig41" target="vysokygovorit">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="mig41" target="MedvedevVesti">
-      <data key="d5">17</data>
-    </edge>
-    <edge source="mig41" target="AptiAlaudinovAKHMAT">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="mig41" target="tvrain">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mig41" target="paperpaper_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mig41" target="rbc_news">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mig41" target="vedomosti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="mig41" target="kommersant">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="mig41" target="Agdchan">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dmytrogordon_official" target="fontankaspb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dmytrogordon_official" target="tvrain">
-      <data key="d5">38</data>
-    </edge>
-    <edge source="dmytrogordon_official" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dmytrogordon_official" target="paperpaper_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dmytrogordon_official" target="protiktok">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="dmytrogordon_official" target="svoboda_radio">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="dmytrogordon_official" target="vedomosti">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="Agdchan" target="RVvoenkor">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="Agdchan" target="rustroyka1945">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Agdchan" target="vysokygovorit">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="svoboda_radio" target="tvrain">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="svoboda_radio" target="sibrealii">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kommersant" target="sibrealii">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kommersant" target="tvrain">
-      <data key="d5">41</data>
-    </edge>
-    <edge source="kommersant" target="thegraschenkov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="kommersant" target="AptiAlaudinovAKHMAT">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="kommersant" target="fontankaspb">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="protiktok" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="protiktok" target="AptiAlaudinovAKHMAT">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="protiktok" target="epoddubny">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="protiktok" target="Taynaya_kantselyariya">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="protiktok" target="sibrealii">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="AptiAlaudinovAKHMAT" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="AptiAlaudinovAKHMAT" target="vysokygovorit">
-      <data key="d5">8</data>
-    </edge>
-    <edge source="AptiAlaudinovAKHMAT" target="Hinshtein">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="AptiAlaudinovAKHMAT" target="Russiacalling">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="thegraschenkov" target="sibrealii">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="thegraschenkov" target="solodovnikovia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="thegraschenkov" target="tvrain">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="GardeZ66" target="MedvedevVesti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="GardeZ66" target="epoddubny">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="mypervie" target="solodovnikovia">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="boris_rozhin" target="epoddubny">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="boris_rozhin" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="boris_rozhin" target="vysokygovorit">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="boris_rozhin" target="NeoficialniyBeZsonoV">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="boris_rozhin" target="RVvoenkor">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="boris_rozhin" target="paperpaper_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="boris_rozhin" target="readovkanews">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="readovkanews" target="SergeyKolyasnikov">
-      <data key="d5">28</data>
-    </edge>
-    <edge source="readovkanews" target="MedvedevVesti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="RVvoenkor" target="MedvedevVesti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="RVvoenkor" target="vysokygovorit">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="RVvoenkor" target="vv_volodin">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="RVvoenkor" target="NeoficialniyBeZsonoV">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="RVvoenkor" target="tvrain">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="paperpaper_ru" target="tvrain">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="paperpaper_ru" target="vedomosti">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="paperpaper_ru" target="fontankaspb">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="paperpaper_ru" target="sibrealii">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="paperpaper_ru" target="femagainstwar">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="paperpaper_ru" target="tanya_f">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="Hinshtein" target="solodovnikovia">
-      <data key="d5">14</data>
-    </edge>
-    <edge source="fontankaspb" target="ngs_news">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="fontankaspb" target="e1_news">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="fontankaspb" target="sparkhomenkovoice">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="fontankaspb" target="tvrain">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="fontankaspb" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="fontankaspb" target="rbc_news">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="NeoficialniyBeZsonoV" target="epoddubny">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="NeoficialniyBeZsonoV" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="NeoficialniyBeZsonoV" target="MedvedevVesti">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="solodovnikovia" target="vv_volodin">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="solodovnikovia" target="vysokygovorit">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MedvedevVesti" target="vysokygovorit">
-      <data key="d5">35</data>
-    </edge>
-    <edge source="MedvedevVesti" target="epoddubny">
-      <data key="d5">13</data>
-    </edge>
-    <edge source="MedvedevVesti" target="SergeyKolyasnikov">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="MedvedevVesti" target="skabeeva">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MedvedevVesti" target="rustroyka1945">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="MedvedevVesti" target="obshina_ru">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="obshina_ru" target="voenkorKotenok">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="vv_volodin" target="SergeyKolyasnikov">
-      <data key="d5">19</data>
-    </edge>
-    <edge source="vv_volodin" target="vysokygovorit">
-      <data key="d5">65</data>
-    </edge>
-    <edge source="femagainstwar" target="tvrain">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="femagainstwar" target="eschulmann">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="femagainstwar" target="sibrealii">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="rbc_news" target="tvrain">
-      <data key="d5">19</data>
-    </edge>
-    <edge source="rbc_news" target="vedomosti">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="rbc_news" target="ngs_news">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="rbc_news" target="sibrealii">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="vladlentatarsky" target="vysokygovorit">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="tvrain" target="vedomosti">
-      <data key="d5">15</data>
-    </edge>
-    <edge source="tvrain" target="sibrealii">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="tvrain" target="tanya_f">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="ngs_news" target="e1_news">
-      <data key="d5">51</data>
-    </edge>
-    <edge source="hellotransfer" target="SergeyKolyasnikov">
-      <data key="d5">1</data>
-    </edge>
-    <edge source="epoddubny" target="vysokygovorit">
-      <data key="d5">61</data>
-    </edge>
-    <edge source="epoddubny" target="SergeyKolyasnikov">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="epoddubny" target="skabeeva">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="rustroyka1945" target="SergeyKolyasnikov">
-      <data key="d5">15</data>
-    </edge>
-    <edge source="SergeyKolyasnikov" target="vysokygovorit">
-      <data key="d5">10</data>
-    </edge>
-  </graph>
-</graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="node" attr.name="infomap" attr.type="long"/>
+<key id="d3" for="node" attr.name="louvain" attr.type="long"/>
+<key id="d2" for="node" attr.name="subcategory" attr.type="string"/>
+<key id="d1" for="node" attr.name="lean" attr.type="string"/>
+<key id="d0" for="node" attr.name="display_name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="yurydud">
+  <data key="d0">Юрий Дудь</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+</node>
+<node id="mkhusnullin">
+  <data key="d0">Марат Хуснуллин</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">9</data>
+  <data key="d4">1</data>
+</node>
+<node id="Putin_Tg_Russia_Novosti">
+  <data key="d0">ПУТИН в Telegram</data>
+  <data key="d1">pro</data>
+  <data key="d2">aggregator</data>
+  <data key="d3">2</data>
+  <data key="d4">2</data>
+</node>
+<node id="jolynews">
+  <data key="d0">Вестник Шевцова</data>
+  <data key="d1">pro</data>
+  <data key="d2">Z_blogger</data>
+  <data key="d3">3</data>
+  <data key="d4">3</data>
+</node>
+<node id="aleksandr_skif">
+  <data key="d0">Александр Ходаковский</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="sibrealii">
+  <data key="d0">Сибирь.Реалии</data>
+  <data key="d1">anti</data>
+  <data key="d2">regional_rferl</data>
+  <data key="d3">5</data>
+  <data key="d4">5</data>
+</node>
+<node id="Russiacalling">
+  <data key="d0">Вован и Лексус</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="bbcrussian">
+  <data key="d0">BBC News Русская служба</data>
+  <data key="d1">neutral</data>
+  <data key="d2">foreign_media</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="khazinml">
+  <data key="d0">Хазин</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">6</data>
+  <data key="d4">7</data>
+</node>
+<node id="tvrain">
+  <data key="d0">Дождь</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">8</data>
+  <data key="d4">8</data>
+</node>
+<node id="news_kremlin">
+  <data key="d0">Кремль. Новости</data>
+  <data key="d1">pro</data>
+  <data key="d2">kremlin_pool</data>
+  <data key="d3">9</data>
+  <data key="d4">9</data>
+</node>
+<node id="team_milov">
+  <data key="d0">Команда Милова</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">10</data>
+  <data key="d4">10</data>
+</node>
+<node id="zakharprilepin">
+  <data key="d0">Захар Прилепин</data>
+  <data key="d1">pro</data>
+  <data key="d2">pro_radical</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="kompromat1online">
+  <data key="d0">К1 (Компромат)</data>
+  <data key="d1">mixed</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">11</data>
+  <data key="d4">11</data>
+</node>
+<node id="rlz_the_kraken">
+  <data key="d0">Выпускайте КракенаZ!</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="skabeeva">
+  <data key="d0">Скабеева</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="obrazbuduschego2">
+  <data key="d0">Образ будущего</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="rbc_news">
+  <data key="d0">РБК</data>
+  <data key="d1">neutral</data>
+  <data key="d2">business_media</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="margaritasimonyan">
+  <data key="d0">Маргарита Симоньян</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">6</data>
+  <data key="d4">12</data>
+</node>
+<node id="slvn_pomet">
+  <data key="d0">Соловьиный Помёт</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">14</data>
+  <data key="d4">13</data>
+</node>
+<node id="leonid_volkov">
+  <data key="d0">Леонид Волков</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="MDaudov_95">
+  <data key="d0">ЛОРД (Делимханов Магомед)</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="maester">
+  <data key="d0">Мейстер</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="mos_sobyanin">
+  <data key="d0">Мэр Москвы Сергей Собянин</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="tanya_f">
+  <data key="d0">Татьяна Фельгенгауэр</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="mardanaka">
+  <data key="d0">МАРДАН</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="truexanewsua">
+  <data key="d0">Труха</data>
+  <data key="d1">anti</data>
+  <data key="d2">foreign_political</data>
+  <data key="d3">16</data>
+  <data key="d4">14</data>
+</node>
+<node id="kstati_p">
+  <data key="d0">КСТАТИ</data>
+  <data key="d1">pro</data>
+  <data key="d2">aggregator</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="kremlin_mother_expert">
+  <data key="d0">Кремлёвский мамковед</data>
+  <data key="d1">mixed</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">4</data>
+</node>
+<node id="solodovnikovia">
+  <data key="d0">Солодовников. Кратко</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">1</data>
+  <data key="d4">15</data>
+</node>
+<node id="rian_ru">
+  <data key="d0">РИА Новости</data>
+  <data key="d1">neutral</data>
+  <data key="d2">state_media</data>
+  <data key="d3">23</data>
+  <data key="d4">16</data>
+</node>
+<node id="Agdchan">
+  <data key="d0">Александр Дугин</data>
+  <data key="d1">pro</data>
+  <data key="d2">pro_radical</data>
+  <data key="d3">23</data>
+  <data key="d4">16</data>
+</node>
+<node id="RKadyrov_95">
+  <data key="d0">Kadyrov_95</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="dmitrynikotin">
+  <data key="d0">Дмитрий Никотин</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">2</data>
+  <data key="d4">2</data>
+</node>
+<node id="Alexey_Pivo_varov">
+  <data key="d0">Алексей Пивоваров / Редакция</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">19</data>
+  <data key="d4">17</data>
+</node>
+<node id="politkremlin">
+  <data key="d0">Капитал</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="nikitabsg">
+  <data key="d0">БЕСОГОН (Михалков)</data>
+  <data key="d1">pro</data>
+  <data key="d2">pro_celebrity</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="currenttime">
+  <data key="d0">Настоящее Время</data>
+  <data key="d1">anti</data>
+  <data key="d2">foreign_media</data>
+  <data key="d3">5</data>
+  <data key="d4">5</data>
+</node>
+<node id="otsuka_bld">
+  <data key="d0">Дабл Ять</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">20</data>
+  <data key="d4">18</data>
+</node>
+<node id="v_pastukhov">
+  <data key="d0">Vladimir Pastukhov</data>
+  <data key="d1">anti</data>
+  <data key="d2">analytical_intellectual</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="ToBeOr_Official">
+  <data key="d0">Быть Или</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">20</data>
+  <data key="d4">18</data>
+</node>
+<node id="steven_bb">
+  <data key="d0">Друзья Дональда</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">13</data>
+  <data key="d4">19</data>
+</node>
+<node id="generalsvr">
+  <data key="d0">Генерал СВР</data>
+  <data key="d1">mixed</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">22</data>
+  <data key="d4">20</data>
+</node>
+<node id="protiktok">
+  <data key="d0">Политический обозреватель</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="politadequate">
+  <data key="d0">АДЕКВАТ Z</data>
+  <data key="d1">pro</data>
+  <data key="d2">Z_blogger</data>
+  <data key="d3">2</data>
+  <data key="d4">7</data>
+</node>
+<node id="tass_agency">
+  <data key="d0">ТАСС</data>
+  <data key="d1">neutral</data>
+  <data key="d2">state_media</data>
+  <data key="d3">23</data>
+  <data key="d4">21</data>
+</node>
+<node id="Sandymustache">
+  <data key="d0">Усы Пескова</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">20</data>
+  <data key="d4">18</data>
+</node>
+<node id="rybar">
+  <data key="d0">Рыбарь</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">1</data>
+  <data key="d4">4</data>
+</node>
+<node id="strelkovii">
+  <data key="d0">Игорь Стрелков (Гиркин)</data>
+  <data key="d1">mixed</data>
+  <data key="d2">pro_radical</data>
+  <data key="d3">25</data>
+  <data key="d4">22</data>
+</node>
+<node id="vvgladkov">
+  <data key="d0">Настоящий Гладков</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="kavkazrealii">
+  <data key="d0">Кавказ.Реалии</data>
+  <data key="d1">anti</data>
+  <data key="d2">regional_rferl</data>
+  <data key="d3">5</data>
+  <data key="d4">5</data>
+</node>
+<node id="epoddubny">
+  <data key="d0">Евгений Поддубный</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="mypervie">
+  <data key="d0">Движение Первых</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">26</data>
+  <data key="d4">23</data>
+</node>
+<node id="dosye_sk">
+  <data key="d0">Досье. Секретный контур</data>
+  <data key="d1">mixed</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">27</data>
+  <data key="d4">24</data>
+</node>
+<node id="legitimniy">
+  <data key="d0">Легитимный</data>
+  <data key="d1">pro</data>
+  <data key="d2">russian_IO_disguised_as_UA</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="Putin_tramp_mobilizaciya_migrant">
+  <data key="d0">Fox News Russia</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">28</data>
+  <data key="d4">25</data>
+</node>
+<node id="Hinshtein">
+  <data key="d0">Александр Хинштейн</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">1</data>
+  <data key="d4">15</data>
+</node>
+<node id="femagainstwar">
+  <data key="d0">Феминистское антивоенное сопротивление</data>
+  <data key="d1">anti</data>
+  <data key="d2">antiwar_activism</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="vr_medinskiy">
+  <data key="d0">Владимир Мединский</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="temalebedev">
+  <data key="d0">Артемий Лебедев</data>
+  <data key="d1">pro</data>
+  <data key="d2">pro_celebrity</data>
+  <data key="d3">23</data>
+  <data key="d4">21</data>
+</node>
+<node id="ksbchk">
+  <data key="d0">Ксения Собчак</data>
+  <data key="d1">mixed</data>
+  <data key="d2">controlled_opposition</data>
+  <data key="d3">30</data>
+  <data key="d4">26</data>
+</node>
+<node id="Sladkov_plus">
+  <data key="d0">Сладков+</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="readovkanews">
+  <data key="d0">Readovka</data>
+  <data key="d1">pro</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">2</data>
+  <data key="d4">7</data>
+</node>
+<node id="ASGasparyan">
+  <data key="d0">ГАСПАРЯН</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="martynov2021">
+  <data key="d0">МАРТЫНОВ</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">23</data>
+  <data key="d4">21</data>
+</node>
+<node id="government_rus">
+  <data key="d0">Правительство России</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">9</data>
+  <data key="d4">1</data>
+</node>
+<node id="AptiAlaudinovAKHMAT">
+  <data key="d0">Апти Алаудинов АХМАТ</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="MID_Russia">
+  <data key="d0">МИД России</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">9</data>
+  <data key="d4">1</data>
+</node>
+<node id="gubernator_46">
+  <data key="d0">Оперштаб Курской области</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">9</data>
+  <data key="d4">9</data>
+</node>
+<node id="Rezident_ua">
+  <data key="d0">Резидент</data>
+  <data key="d1">pro</data>
+  <data key="d2">russian_IO_disguised_as_UA</data>
+  <data key="d3">31</data>
+  <data key="d4">27</data>
+</node>
+<node id="alexandrshtefanov">
+  <data key="d0">Александр Штефанов</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">32</data>
+  <data key="d4">28</data>
+</node>
+<node id="paperpaper_ru">
+  <data key="d0">Бумага</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">33</data>
+  <data key="d4">29</data>
+</node>
+<node id="slutsky_l">
+  <data key="d0">СЛУЦКИЙ</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">2</data>
+  <data key="d4">2</data>
+</node>
+<node id="mash">
+  <data key="d0">Mash</data>
+  <data key="d1">pro</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">34</data>
+  <data key="d4">30</data>
+</node>
+<node id="O_Arestovich_official">
+  <data key="d0">Алексей Арестович</data>
+  <data key="d1">mixed</data>
+  <data key="d2">foreign_controversial</data>
+  <data key="d3">35</data>
+  <data key="d4">31</data>
+</node>
+<node id="eschulmann">
+  <data key="d0">Екатерина Шульман</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">36</data>
+  <data key="d4">32</data>
+</node>
+<node id="adelimkhanov_95">
+  <data key="d0">Адам Делимханов</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="GardeZ66">
+  <data key="d0">ШЕЙНИН</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">23</data>
+  <data key="d4">16</data>
+</node>
+<node id="thegraschenkov">
+  <data key="d0">The Гращенков</data>
+  <data key="d1">mixed</data>
+  <data key="d2">analytical_intellectual</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="Yuri_Slusar">
+  <data key="d0">Юрий Слюсарь</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">37</data>
+  <data key="d4">33</data>
+</node>
+<node id="orda_mordora">
+  <data key="d0">Орда</data>
+  <data key="d1">pro</data>
+  <data key="d2">Z_blogger</data>
+  <data key="d3">38</data>
+  <data key="d4">34</data>
+</node>
+<node id="OP_UA">
+  <data key="d0">Офис президента Украины</data>
+  <data key="d1">anti</data>
+  <data key="d2">foreign_official</data>
+  <data key="d3">39</data>
+  <data key="d4">35</data>
+</node>
+<node id="kommersant">
+  <data key="d0">Коммерсантъ</data>
+  <data key="d1">neutral</data>
+  <data key="d2">business_media</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="obshina_ru">
+  <data key="d0">Русская Община ZOV</data>
+  <data key="d1">pro</data>
+  <data key="d2">Z_blogger</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="mod_russia">
+  <data key="d0">Минобороны России</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">9</data>
+  <data key="d4">9</data>
+</node>
+<node id="Rrussiansword">
+  <data key="d0">Русский меч</data>
+  <data key="d1">pro</data>
+  <data key="d2">Z_blogger</data>
+  <data key="d3">13</data>
+  <data key="d4">36</data>
+</node>
+<node id="dimsmirnov175">
+  <data key="d0">Пул N3</data>
+  <data key="d1">pro</data>
+  <data key="d2">kremlin_pool</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="mchs_official">
+  <data key="d0">МЧС России</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">9</data>
+  <data key="d4">1</data>
+</node>
+<node id="opersvodki">
+  <data key="d0">Оперативные сводки</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">1</data>
+  <data key="d4">37</data>
+</node>
+<node id="sotaproject">
+  <data key="d0">Сота</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">32</data>
+  <data key="d4">28</data>
+</node>
+<node id="dimonundmir">
+  <data key="d0">Профессор Евстафьев</data>
+  <data key="d1">pro</data>
+  <data key="d2">analytical_intellectual</data>
+  <data key="d3">6</data>
+  <data key="d4">7</data>
+</node>
+<node id="severrealii">
+  <data key="d0">Север.Реалии</data>
+  <data key="d1">anti</data>
+  <data key="d2">regional_rferl</data>
+  <data key="d3">5</data>
+  <data key="d4">5</data>
+</node>
+<node id="sparkhomenkovoice">
+  <data key="d0">Сергей Пархоменко</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="vysokygovorit">
+  <data key="d0">Старше Эдды</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="varlamov_news">
+  <data key="d0">Илья Варламов</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">41</data>
+  <data key="d4">38</data>
+</node>
+<node id="bazabazon">
+  <data key="d0">BAZA</data>
+  <data key="d1">pro</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="SolovievLive">
+  <data key="d0">СОЛОВЬЁВ</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">6</data>
+  <data key="d4">2</data>
+</node>
+<node id="insect_life">
+  <data key="d0">Жизнь насекомых</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="MariaVladimirovnaZakharova">
+  <data key="d0">Мария Захарова</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_official</data>
+  <data key="d3">6</data>
+  <data key="d4">1</data>
+</node>
+<node id="vv_volodin">
+  <data key="d0">Вячеслав Володин</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="Taynaya_kantselyariya">
+  <data key="d0">Тайная канцелярия</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="vladlentatarsky">
+  <data key="d0">Владлен Татарский</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="mig41">
+  <data key="d0">МИГ России</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="maximkatz">
+  <data key="d0">Максим Кац</data>
+  <data key="d1">anti</data>
+  <data key="d2">opposition</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="istories_media">
+  <data key="d0">iStories</data>
+  <data key="d1">anti</data>
+  <data key="d2">investigative_media</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="warfakes">
+  <data key="d0">Война с фейками</data>
+  <data key="d1">pro</data>
+  <data key="d2">state_aligned_factcheck</data>
+  <data key="d3">2</data>
+  <data key="d4">7</data>
+</node>
+<node id="mnogonazi">
+  <data key="d0">Многонационал</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="auantonov">
+  <data key="d0">Антонов такой Антонов</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">23</data>
+  <data key="d4">21</data>
+</node>
+<node id="boris_rozhin">
+  <data key="d0">Colonelcassad</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">2</data>
+  <data key="d4">7</data>
+</node>
+<node id="hellotransfer">
+  <data key="d0">Навстречу Трансферу</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">19</data>
+</node>
+<node id="razvozhaev">
+  <data key="d0">РаZVожаев</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">7</data>
+  <data key="d4">39</data>
+</node>
+<node id="ejdailyru">
+  <data key="d0">ЕЖ</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="dmytrogordon_official">
+  <data key="d0">Дмитрий Гордон</data>
+  <data key="d1">anti</data>
+  <data key="d2">foreign_media</data>
+  <data key="d3">16</data>
+  <data key="d4">14</data>
+</node>
+<node id="svoboda_radio">
+  <data key="d0">Радио Свобода</data>
+  <data key="d1">anti</data>
+  <data key="d2">foreign_media</data>
+  <data key="d3">40</data>
+  <data key="d4">40</data>
+</node>
+<node id="dshrg2">
+  <data key="d0">ДШРГ Русич</data>
+  <data key="d1">pro</data>
+  <data key="d2">pro_radical</data>
+  <data key="d3">13</data>
+  <data key="d4">36</data>
+</node>
+<node id="idelrealii">
+  <data key="d0">Idel.Реалии</data>
+  <data key="d1">anti</data>
+  <data key="d2">regional_rferl</data>
+  <data key="d3">5</data>
+  <data key="d4">5</data>
+</node>
+<node id="agentstvonews">
+  <data key="d0">Агентство</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">42</data>
+  <data key="d4">41</data>
+</node>
+<node id="republicmag">
+  <data key="d0">Republic</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">12</data>
+  <data key="d4">42</data>
+</node>
+<node id="rustroyka1945">
+  <data key="d0">ТРОЙКА</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="ngs_news">
+  <data key="d0">НГС - Новосибирск</data>
+  <data key="d1">neutral</data>
+  <data key="d2">regional_independent</data>
+  <data key="d3">4</data>
+  <data key="d4">43</data>
+</node>
+<node id="holodmedia">
+  <data key="d0">Холод</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">15</data>
+  <data key="d4">44</data>
+</node>
+<node id="voenkorKotenok">
+  <data key="d0">Военкор Котенок</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="oabch">
+  <data key="d0">Одет аккуратно. Борода черная</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="fontankaspb">
+  <data key="d0">Фонтанка - СПб</data>
+  <data key="d1">neutral</data>
+  <data key="d2">regional_independent</data>
+  <data key="d3">4</data>
+  <data key="d4">43</data>
+</node>
+<node id="interfaxonline">
+  <data key="d0">Интерфакс</data>
+  <data key="d1">neutral</data>
+  <data key="d2">business_media</data>
+  <data key="d3">17</data>
+  <data key="d4">45</data>
+</node>
+<node id="meduzalive">
+  <data key="d0">Медуза — LIVE</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="iditelesom_help">
+  <data key="d0">Идите лесом</data>
+  <data key="d1">anti</data>
+  <data key="d2">antiwar_activism</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="polittemnik">
+  <data key="d0">Темник</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="e1_news">
+  <data key="d0">Е1.RU - Екатеринбург</data>
+  <data key="d1">neutral</data>
+  <data key="d2">regional_independent</data>
+  <data key="d3">4</data>
+  <data key="d4">43</data>
+</node>
+<node id="NeoficialniyBeZsonoV">
+  <data key="d0">Неофициальный Безсонов</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">1</data>
+  <data key="d4">37</data>
+</node>
+<node id="Tsaplienko">
+  <data key="d0">Андрей Цаплиенко</data>
+  <data key="d1">anti</data>
+  <data key="d2">foreign_voenkor</data>
+  <data key="d3">40</data>
+  <data key="d4">40</data>
+</node>
+<node id="vedomosti">
+  <data key="d0">Ведомости</data>
+  <data key="d1">neutral</data>
+  <data key="d2">business_media</data>
+  <data key="d3">13</data>
+  <data key="d4">1</data>
+</node>
+<node id="mysly">
+  <data key="d0">Мюсли вслух</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="ovdinfo">
+  <data key="d0">OVD-Info</data>
+  <data key="d1">anti</data>
+  <data key="d2">human_rights</data>
+  <data key="d3">4</data>
+  <data key="d4">6</data>
+</node>
+<node id="politjoystic">
+  <data key="d0">Политджойстик / Politjoystic</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="RVvoenkor">
+  <data key="d0">Операция Z: Военкоры Русской Весны</data>
+  <data key="d1">pro</data>
+  <data key="d2">voenkor</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="rian_novosti_russya">
+  <data key="d0">РУССКИЙ ФОРМАТ</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">18</data>
+  <data key="d4">46</data>
+</node>
+<node id="SergeyKolyasnikov">
+  <data key="d0">ZERGULIO</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="MedvedevVesti">
+  <data key="d0">Андрей Медведев</data>
+  <data key="d1">pro</data>
+  <data key="d2">propagandist</data>
+  <data key="d3">2</data>
+  <data key="d4">4</data>
+</node>
+<node id="vatnoeboloto">
+  <data key="d0">Ватное болото</data>
+  <data key="d1">pro</data>
+  <data key="d2">Z_blogger</data>
+  <data key="d3">21</data>
+  <data key="d4">47</data>
+</node>
+<node id="aavst2022">
+  <data key="d0">Алексей Венедиктов</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">24</data>
+  <data key="d4">48</data>
+</node>
+<node id="igor_artamonov48">
+  <data key="d0">Игорь Артамонов</data>
+  <data key="d1">pro</data>
+  <data key="d2">politician</data>
+  <data key="d3">29</data>
+  <data key="d4">49</data>
+</node>
+<node id="russicaRU">
+  <data key="d0">НЕЗЫГАРЬ</data>
+  <data key="d1">pro</data>
+  <data key="d2">anonymous_political</data>
+  <data key="d3">13</data>
+  <data key="d4">12</data>
+</node>
+<node id="ostorozhno_novosti">
+  <data key="d0">Осторожно, Новости</data>
+  <data key="d1">anti</data>
+  <data key="d2">independent_media</data>
+  <data key="d3">23</data>
+  <data key="d4">21</data>
+</node>
+<edge source="mkhusnullin" target="government_rus">
+  <data key="d5">1</data>
+</edge>
+<edge source="mkhusnullin" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="AptiAlaudinovAKHMAT">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="SolovievLive">
+  <data key="d5">5</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="dimsmirnov175">
+  <data key="d5">14</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="vysokygovorit">
+  <data key="d5">27</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="slutsky_l">
+  <data key="d5">12</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="dimonundmir">
+  <data key="d5">3</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="martynov2021">
+  <data key="d5">2</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="kstati_p">
+  <data key="d5">4</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="dmytrogordon_official">
+  <data key="d5">2</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="rlz_the_kraken">
+  <data key="d5">25</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="ASGasparyan">
+  <data key="d5">3</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="bazabazon">
+  <data key="d5">4</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="sotaproject">
+  <data key="d5">6</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="meduzalive">
+  <data key="d5">9</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="istories_media">
+  <data key="d5">13</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="paperpaper_ru">
+  <data key="d5">2</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="ejdailyru">
+  <data key="d5">2</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="Putin_tramp_mobilizaciya_migrant">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="rian_ru">
+  <data key="d5">4</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="dosye_sk">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="rbc_news">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="tvrain">
+  <data key="d5">5</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="truexanewsua">
+  <data key="d5">2</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="holodmedia">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="tass_agency">
+  <data key="d5">2</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="kommersant">
+  <data key="d5">1</data>
+</edge>
+<edge source="Putin_Tg_Russia_Novosti" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="jolynews" target="dmytrogordon_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="jolynews" target="Tsaplienko">
+  <data key="d5">1</data>
+</edge>
+<edge source="jolynews" target="ToBeOr_Official">
+  <data key="d5">1</data>
+</edge>
+<edge source="aleksandr_skif" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="sibrealii" target="severrealii">
+  <data key="d5">695</data>
+</edge>
+<edge source="sibrealii" target="currenttime">
+  <data key="d5">43</data>
+</edge>
+<edge source="sibrealii" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="sibrealii" target="bbcrussian">
+  <data key="d5">4</data>
+</edge>
+<edge source="sibrealii" target="agentstvonews">
+  <data key="d5">2</data>
+</edge>
+<edge source="sibrealii" target="kommersant">
+  <data key="d5">1</data>
+</edge>
+<edge source="sibrealii" target="sotaproject">
+  <data key="d5">10</data>
+</edge>
+<edge source="sibrealii" target="thegraschenkov">
+  <data key="d5">1</data>
+</edge>
+<edge source="sibrealii" target="protiktok">
+  <data key="d5">4</data>
+</edge>
+<edge source="sibrealii" target="tvrain">
+  <data key="d5">7</data>
+</edge>
+<edge source="sibrealii" target="idelrealii">
+  <data key="d5">61</data>
+</edge>
+<edge source="sibrealii" target="istories_media">
+  <data key="d5">10</data>
+</edge>
+<edge source="sibrealii" target="paperpaper_ru">
+  <data key="d5">3</data>
+</edge>
+<edge source="sibrealii" target="holodmedia">
+  <data key="d5">1</data>
+</edge>
+<edge source="sibrealii" target="svoboda_radio">
+  <data key="d5">1</data>
+</edge>
+<edge source="sibrealii" target="meduzalive">
+  <data key="d5">3</data>
+</edge>
+<edge source="sibrealii" target="femagainstwar">
+  <data key="d5">2</data>
+</edge>
+<edge source="sibrealii" target="rbc_news">
+  <data key="d5">1</data>
+</edge>
+<edge source="Russiacalling" target="SolovievLive">
+  <data key="d5">5</data>
+</edge>
+<edge source="Russiacalling" target="AptiAlaudinovAKHMAT">
+  <data key="d5">1</data>
+</edge>
+<edge source="bbcrussian" target="istories_media">
+  <data key="d5">4</data>
+</edge>
+<edge source="bbcrussian" target="severrealii">
+  <data key="d5">4</data>
+</edge>
+<edge source="bbcrussian" target="tvrain">
+  <data key="d5">13</data>
+</edge>
+<edge source="bbcrussian" target="sotaproject">
+  <data key="d5">13</data>
+</edge>
+<edge source="bbcrussian" target="truexanewsua">
+  <data key="d5">4</data>
+</edge>
+<edge source="bbcrussian" target="ToBeOr_Official">
+  <data key="d5">8</data>
+</edge>
+<edge source="bbcrussian" target="SolovievLive">
+  <data key="d5">5</data>
+</edge>
+<edge source="bbcrussian" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="bbcrussian" target="currenttime">
+  <data key="d5">9</data>
+</edge>
+<edge source="bbcrussian" target="dmytrogordon_official">
+  <data key="d5">6</data>
+</edge>
+<edge source="bbcrussian" target="Tsaplienko">
+  <data key="d5">2</data>
+</edge>
+<edge source="bbcrussian" target="meduzalive">
+  <data key="d5">3</data>
+</edge>
+<edge source="bbcrussian" target="tanya_f">
+  <data key="d5">10</data>
+</edge>
+<edge source="bbcrussian" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="bbcrussian" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="bbcrussian" target="holodmedia">
+  <data key="d5">2</data>
+</edge>
+<edge source="bbcrussian" target="idelrealii">
+  <data key="d5">1</data>
+</edge>
+<edge source="bbcrussian" target="svoboda_radio">
+  <data key="d5">1</data>
+</edge>
+<edge source="khazinml" target="ASGasparyan">
+  <data key="d5">2</data>
+</edge>
+<edge source="khazinml" target="warfakes">
+  <data key="d5">1</data>
+</edge>
+<edge source="khazinml" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="tvrain" target="rybar">
+  <data key="d5">1</data>
+</edge>
+<edge source="tvrain" target="mod_russia">
+  <data key="d5">1</data>
+</edge>
+<edge source="tvrain" target="sotaproject">
+  <data key="d5">74</data>
+</edge>
+<edge source="tvrain" target="currenttime">
+  <data key="d5">75</data>
+</edge>
+<edge source="tvrain" target="dmytrogordon_official">
+  <data key="d5">38</data>
+</edge>
+<edge source="tvrain" target="truexanewsua">
+  <data key="d5">13</data>
+</edge>
+<edge source="tvrain" target="istories_media">
+  <data key="d5">52</data>
+</edge>
+<edge source="tvrain" target="ToBeOr_Official">
+  <data key="d5">14</data>
+</edge>
+<edge source="tvrain" target="ejdailyru">
+  <data key="d5">5</data>
+</edge>
+<edge source="tvrain" target="Tsaplienko">
+  <data key="d5">4</data>
+</edge>
+<edge source="tvrain" target="mig41">
+  <data key="d5">2</data>
+</edge>
+<edge source="tvrain" target="meduzalive">
+  <data key="d5">61</data>
+</edge>
+<edge source="tvrain" target="paperpaper_ru">
+  <data key="d5">13</data>
+</edge>
+<edge source="tvrain" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="tvrain" target="agentstvonews">
+  <data key="d5">11</data>
+</edge>
+<edge source="tvrain" target="interfaxonline">
+  <data key="d5">3</data>
+</edge>
+<edge source="tvrain" target="bazabazon">
+  <data key="d5">2</data>
+</edge>
+<edge source="tvrain" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="tvrain" target="SolovievLive">
+  <data key="d5">6</data>
+</edge>
+<edge source="tvrain" target="kommersant">
+  <data key="d5">41</data>
+</edge>
+<edge source="tvrain" target="mardanaka">
+  <data key="d5">2</data>
+</edge>
+<edge source="tvrain" target="kompromat1online">
+  <data key="d5">1</data>
+</edge>
+<edge source="tvrain" target="vedomosti">
+  <data key="d5">15</data>
+</edge>
+<edge source="tvrain" target="severrealii">
+  <data key="d5">9</data>
+</edge>
+<edge source="tvrain" target="rbc_news">
+  <data key="d5">19</data>
+</edge>
+<edge source="tvrain" target="femagainstwar">
+  <data key="d5">4</data>
+</edge>
+<edge source="tvrain" target="varlamov_news">
+  <data key="d5">2</data>
+</edge>
+<edge source="tvrain" target="tanya_f">
+  <data key="d5">2</data>
+</edge>
+<edge source="tvrain" target="svoboda_radio">
+  <data key="d5">5</data>
+</edge>
+<edge source="tvrain" target="tass_agency">
+  <data key="d5">4</data>
+</edge>
+<edge source="tvrain" target="rian_ru">
+  <data key="d5">6</data>
+</edge>
+<edge source="tvrain" target="fontankaspb">
+  <data key="d5">6</data>
+</edge>
+<edge source="tvrain" target="holodmedia">
+  <data key="d5">2</data>
+</edge>
+<edge source="tvrain" target="ovdinfo">
+  <data key="d5">1</data>
+</edge>
+<edge source="tvrain" target="thegraschenkov">
+  <data key="d5">1</data>
+</edge>
+<edge source="news_kremlin" target="mod_russia">
+  <data key="d5">75</data>
+</edge>
+<edge source="news_kremlin" target="MID_Russia">
+  <data key="d5">21</data>
+</edge>
+<edge source="news_kremlin" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="news_kremlin" target="politjoystic">
+  <data key="d5">7</data>
+</edge>
+<edge source="news_kremlin" target="dmytrogordon_official">
+  <data key="d5">3</data>
+</edge>
+<edge source="news_kremlin" target="severrealii">
+  <data key="d5">2</data>
+</edge>
+<edge source="news_kremlin" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="news_kremlin" target="sotaproject">
+  <data key="d5">3</data>
+</edge>
+<edge source="news_kremlin" target="zakharprilepin">
+  <data key="d5">4</data>
+</edge>
+<edge source="news_kremlin" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="news_kremlin" target="currenttime">
+  <data key="d5">2</data>
+</edge>
+<edge source="news_kremlin" target="AptiAlaudinovAKHMAT">
+  <data key="d5">1</data>
+</edge>
+<edge source="news_kremlin" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="news_kremlin" target="boris_rozhin">
+  <data key="d5">1</data>
+</edge>
+<edge source="news_kremlin" target="martynov2021">
+  <data key="d5">3</data>
+</edge>
+<edge source="news_kremlin" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="team_milov" target="dmytrogordon_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="team_milov" target="rbc_news">
+  <data key="d5">1</data>
+</edge>
+<edge source="zakharprilepin" target="SolovievLive">
+  <data key="d5">5</data>
+</edge>
+<edge source="zakharprilepin" target="dimsmirnov175">
+  <data key="d5">6</data>
+</edge>
+<edge source="zakharprilepin" target="AptiAlaudinovAKHMAT">
+  <data key="d5">10</data>
+</edge>
+<edge source="zakharprilepin" target="ASGasparyan">
+  <data key="d5">4</data>
+</edge>
+<edge source="zakharprilepin" target="boris_rozhin">
+  <data key="d5">2</data>
+</edge>
+<edge source="zakharprilepin" target="vysokygovorit">
+  <data key="d5">24</data>
+</edge>
+<edge source="zakharprilepin" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="zakharprilepin" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="zakharprilepin" target="epoddubny">
+  <data key="d5">5</data>
+</edge>
+<edge source="zakharprilepin" target="mysly">
+  <data key="d5">1</data>
+</edge>
+<edge source="zakharprilepin" target="dimonundmir">
+  <data key="d5">3</data>
+</edge>
+<edge source="zakharprilepin" target="tass_agency">
+  <data key="d5">3</data>
+</edge>
+<edge source="zakharprilepin" target="martynov2021">
+  <data key="d5">2</data>
+</edge>
+<edge source="zakharprilepin" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="zakharprilepin" target="rlz_the_kraken">
+  <data key="d5">1</data>
+</edge>
+<edge source="zakharprilepin" target="MID_Russia">
+  <data key="d5">2</data>
+</edge>
+<edge source="zakharprilepin" target="Agdchan">
+  <data key="d5">1</data>
+</edge>
+<edge source="kompromat1online" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="kompromat1online" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="kompromat1online" target="sotaproject">
+  <data key="d5">1</data>
+</edge>
+<edge source="kompromat1online" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="rlz_the_kraken" target="SolovievLive">
+  <data key="d5">6</data>
+</edge>
+<edge source="rlz_the_kraken" target="AptiAlaudinovAKHMAT">
+  <data key="d5">1</data>
+</edge>
+<edge source="rlz_the_kraken" target="dimsmirnov175">
+  <data key="d5">21</data>
+</edge>
+<edge source="rlz_the_kraken" target="vv_volodin">
+  <data key="d5">2</data>
+</edge>
+<edge source="rlz_the_kraken" target="vysokygovorit">
+  <data key="d5">14</data>
+</edge>
+<edge source="rlz_the_kraken" target="SergeyKolyasnikov">
+  <data key="d5">5</data>
+</edge>
+<edge source="rlz_the_kraken" target="mig41">
+  <data key="d5">6</data>
+</edge>
+<edge source="rlz_the_kraken" target="kstati_p">
+  <data key="d5">4</data>
+</edge>
+<edge source="rlz_the_kraken" target="MedvedevVesti">
+  <data key="d5">5</data>
+</edge>
+<edge source="rlz_the_kraken" target="rustroyka1945">
+  <data key="d5">2</data>
+</edge>
+<edge source="rlz_the_kraken" target="kremlin_mother_expert">
+  <data key="d5">2</data>
+</edge>
+<edge source="rlz_the_kraken" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="skabeeva" target="SolovievLive">
+  <data key="d5">6</data>
+</edge>
+<edge source="skabeeva" target="epoddubny">
+  <data key="d5">6</data>
+</edge>
+<edge source="skabeeva" target="MedvedevVesti">
+  <data key="d5">1</data>
+</edge>
+<edge source="obrazbuduschego2" target="dimsmirnov175">
+  <data key="d5">22</data>
+</edge>
+<edge source="obrazbuduschego2" target="tass_agency">
+  <data key="d5">1</data>
+</edge>
+<edge source="obrazbuduschego2" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="obrazbuduschego2" target="ejdailyru">
+  <data key="d5">6</data>
+</edge>
+<edge source="obrazbuduschego2" target="polittemnik">
+  <data key="d5">1</data>
+</edge>
+<edge source="obrazbuduschego2" target="kstati_p">
+  <data key="d5">11</data>
+</edge>
+<edge source="obrazbuduschego2" target="politjoystic">
+  <data key="d5">6</data>
+</edge>
+<edge source="obrazbuduschego2" target="hellotransfer">
+  <data key="d5">1</data>
+</edge>
+<edge source="obrazbuduschego2" target="otsuka_bld">
+  <data key="d5">1</data>
+</edge>
+<edge source="obrazbuduschego2" target="kommersant">
+  <data key="d5">3</data>
+</edge>
+<edge source="rbc_news" target="mig41">
+  <data key="d5">2</data>
+</edge>
+<edge source="rbc_news" target="polittemnik">
+  <data key="d5">16</data>
+</edge>
+<edge source="rbc_news" target="ejdailyru">
+  <data key="d5">54</data>
+</edge>
+<edge source="rbc_news" target="currenttime">
+  <data key="d5">1</data>
+</edge>
+<edge source="rbc_news" target="istories_media">
+  <data key="d5">3</data>
+</edge>
+<edge source="rbc_news" target="sotaproject">
+  <data key="d5">3</data>
+</edge>
+<edge source="rbc_news" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="rbc_news" target="ngs_news">
+  <data key="d5">6</data>
+</edge>
+<edge source="rbc_news" target="severrealii">
+  <data key="d5">1</data>
+</edge>
+<edge source="rbc_news" target="fontankaspb">
+  <data key="d5">1</data>
+</edge>
+<edge source="margaritasimonyan" target="mysly">
+  <data key="d5">1</data>
+</edge>
+<edge source="margaritasimonyan" target="SolovievLive">
+  <data key="d5">6</data>
+</edge>
+<edge source="margaritasimonyan" target="MariaVladimirovnaZakharova">
+  <data key="d5">1</data>
+</edge>
+<edge source="slvn_pomet" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="leonid_volkov" target="sotaproject">
+  <data key="d5">2</data>
+</edge>
+<edge source="maester" target="dimsmirnov175">
+  <data key="d5">8</data>
+</edge>
+<edge source="maester" target="politjoystic">
+  <data key="d5">3</data>
+</edge>
+<edge source="maester" target="mardanaka">
+  <data key="d5">2</data>
+</edge>
+<edge source="maester" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="maester" target="GardeZ66">
+  <data key="d5">1</data>
+</edge>
+<edge source="mos_sobyanin" target="dimsmirnov175">
+  <data key="d5">5</data>
+</edge>
+<edge source="mos_sobyanin" target="mysly">
+  <data key="d5">1</data>
+</edge>
+<edge source="mos_sobyanin" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="mos_sobyanin" target="hellotransfer">
+  <data key="d5">1</data>
+</edge>
+<edge source="mos_sobyanin" target="steven_bb">
+  <data key="d5">1</data>
+</edge>
+<edge source="mos_sobyanin" target="SolovievLive">
+  <data key="d5">45</data>
+</edge>
+<edge source="mos_sobyanin" target="solodovnikovia">
+  <data key="d5">1</data>
+</edge>
+<edge source="mos_sobyanin" target="ASGasparyan">
+  <data key="d5">1</data>
+</edge>
+<edge source="mos_sobyanin" target="vysokygovorit">
+  <data key="d5">1</data>
+</edge>
+<edge source="tanya_f" target="varlamov_news">
+  <data key="d5">1</data>
+</edge>
+<edge source="tanya_f" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="tanya_f" target="paperpaper_ru">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="SolovievLive">
+  <data key="d5">64</data>
+</edge>
+<edge source="mardanaka" target="SergeyKolyasnikov">
+  <data key="d5">5</data>
+</edge>
+<edge source="mardanaka" target="ASGasparyan">
+  <data key="d5">22</data>
+</edge>
+<edge source="mardanaka" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="protiktok">
+  <data key="d5">2</data>
+</edge>
+<edge source="mardanaka" target="dimsmirnov175">
+  <data key="d5">11</data>
+</edge>
+<edge source="mardanaka" target="kstati_p">
+  <data key="d5">3</data>
+</edge>
+<edge source="mardanaka" target="polittemnik">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="Agdchan">
+  <data key="d5">3</data>
+</edge>
+<edge source="mardanaka" target="warfakes">
+  <data key="d5">3</data>
+</edge>
+<edge source="mardanaka" target="currenttime">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="dmytrogordon_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="sotaproject">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="thegraschenkov">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="russicaRU">
+  <data key="d5">3</data>
+</edge>
+<edge source="mardanaka" target="martynov2021">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="mardanaka" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="truexanewsua" target="Tsaplienko">
+  <data key="d5">45</data>
+</edge>
+<edge source="truexanewsua" target="RVvoenkor">
+  <data key="d5">6</data>
+</edge>
+<edge source="truexanewsua" target="meduzalive">
+  <data key="d5">9</data>
+</edge>
+<edge source="truexanewsua" target="rybar">
+  <data key="d5">1</data>
+</edge>
+<edge source="truexanewsua" target="SolovievLive">
+  <data key="d5">25</data>
+</edge>
+<edge source="truexanewsua" target="mig41">
+  <data key="d5">2</data>
+</edge>
+<edge source="truexanewsua" target="auantonov">
+  <data key="d5">1</data>
+</edge>
+<edge source="truexanewsua" target="ToBeOr_Official">
+  <data key="d5">5</data>
+</edge>
+<edge source="truexanewsua" target="dmytrogordon_official">
+  <data key="d5">62</data>
+</edge>
+<edge source="truexanewsua" target="currenttime">
+  <data key="d5">11</data>
+</edge>
+<edge source="truexanewsua" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="truexanewsua" target="ejdailyru">
+  <data key="d5">3</data>
+</edge>
+<edge source="truexanewsua" target="Rezident_ua">
+  <data key="d5">5</data>
+</edge>
+<edge source="truexanewsua" target="svoboda_radio">
+  <data key="d5">4</data>
+</edge>
+<edge source="truexanewsua" target="istories_media">
+  <data key="d5">3</data>
+</edge>
+<edge source="truexanewsua" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="truexanewsua" target="sotaproject">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="SolovievLive">
+  <data key="d5">20</data>
+</edge>
+<edge source="kstati_p" target="protiktok">
+  <data key="d5">2</data>
+</edge>
+<edge source="kstati_p" target="ASGasparyan">
+  <data key="d5">2</data>
+</edge>
+<edge source="kstati_p" target="SergeyKolyasnikov">
+  <data key="d5">2</data>
+</edge>
+<edge source="kstati_p" target="dimsmirnov175">
+  <data key="d5">147</data>
+</edge>
+<edge source="kstati_p" target="politjoystic">
+  <data key="d5">5</data>
+</edge>
+<edge source="kstati_p" target="polittemnik">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="ejdailyru">
+  <data key="d5">10</data>
+</edge>
+<edge source="kstati_p" target="tass_agency">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="mig41">
+  <data key="d5">4</data>
+</edge>
+<edge source="kstati_p" target="vysokygovorit">
+  <data key="d5">4</data>
+</edge>
+<edge source="kstati_p" target="dmitrynikotin">
+  <data key="d5">6</data>
+</edge>
+<edge source="kstati_p" target="warfakes">
+  <data key="d5">6</data>
+</edge>
+<edge source="kstati_p" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="currenttime">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="dmytrogordon_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="kstati_p" target="kommersant">
+  <data key="d5">1</data>
+</edge>
+<edge source="kremlin_mother_expert" target="dimsmirnov175">
+  <data key="d5">4</data>
+</edge>
+<edge source="kremlin_mother_expert" target="SolovievLive">
+  <data key="d5">2</data>
+</edge>
+<edge source="kremlin_mother_expert" target="agentstvonews">
+  <data key="d5">2</data>
+</edge>
+<edge source="kremlin_mother_expert" target="istories_media">
+  <data key="d5">4</data>
+</edge>
+<edge source="kremlin_mother_expert" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="kremlin_mother_expert" target="svoboda_radio">
+  <data key="d5">2</data>
+</edge>
+<edge source="kremlin_mother_expert" target="Tsaplienko">
+  <data key="d5">1</data>
+</edge>
+<edge source="kremlin_mother_expert" target="currenttime">
+  <data key="d5">2</data>
+</edge>
+<edge source="kremlin_mother_expert" target="ToBeOr_Official">
+  <data key="d5">3</data>
+</edge>
+<edge source="kremlin_mother_expert" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="solodovnikovia" target="government_rus">
+  <data key="d5">3</data>
+</edge>
+<edge source="solodovnikovia" target="vv_volodin">
+  <data key="d5">3</data>
+</edge>
+<edge source="solodovnikovia" target="vysokygovorit">
+  <data key="d5">1</data>
+</edge>
+<edge source="solodovnikovia" target="Hinshtein">
+  <data key="d5">14</data>
+</edge>
+<edge source="solodovnikovia" target="mypervie">
+  <data key="d5">1</data>
+</edge>
+<edge source="solodovnikovia" target="thegraschenkov">
+  <data key="d5">1</data>
+</edge>
+<edge source="rian_ru" target="boris_rozhin">
+  <data key="d5">5</data>
+</edge>
+<edge source="rian_ru" target="aavst2022">
+  <data key="d5">1</data>
+</edge>
+<edge source="rian_ru" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="rian_ru" target="Agdchan">
+  <data key="d5">42</data>
+</edge>
+<edge source="rian_ru" target="politjoystic">
+  <data key="d5">2</data>
+</edge>
+<edge source="rian_ru" target="GardeZ66">
+  <data key="d5">6</data>
+</edge>
+<edge source="rian_ru" target="ejdailyru">
+  <data key="d5">3</data>
+</edge>
+<edge source="rian_ru" target="fontankaspb">
+  <data key="d5">2</data>
+</edge>
+<edge source="rian_ru" target="MID_Russia">
+  <data key="d5">2</data>
+</edge>
+<edge source="rian_ru" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="rian_ru" target="AptiAlaudinovAKHMAT">
+  <data key="d5">2</data>
+</edge>
+<edge source="rian_ru" target="martynov2021">
+  <data key="d5">6</data>
+</edge>
+<edge source="rian_ru" target="severrealii">
+  <data key="d5">1</data>
+</edge>
+<edge source="Agdchan" target="RVvoenkor">
+  <data key="d5">2</data>
+</edge>
+<edge source="Agdchan" target="tass_agency">
+  <data key="d5">1</data>
+</edge>
+<edge source="Agdchan" target="rustroyka1945">
+  <data key="d5">1</data>
+</edge>
+<edge source="Agdchan" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="Agdchan" target="vysokygovorit">
+  <data key="d5">1</data>
+</edge>
+<edge source="RKadyrov_95" target="AptiAlaudinovAKHMAT">
+  <data key="d5">4</data>
+</edge>
+<edge source="dmitrynikotin" target="warfakes">
+  <data key="d5">6</data>
+</edge>
+<edge source="dmitrynikotin" target="ASGasparyan">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="severrealii">
+  <data key="d5">63</data>
+</edge>
+<edge source="currenttime" target="dmytrogordon_official">
+  <data key="d5">30</data>
+</edge>
+<edge source="currenttime" target="rybar">
+  <data key="d5">2</data>
+</edge>
+<edge source="currenttime" target="istories_media">
+  <data key="d5">45</data>
+</edge>
+<edge source="currenttime" target="protiktok">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="meduzalive">
+  <data key="d5">22</data>
+</edge>
+<edge source="currenttime" target="mig41">
+  <data key="d5">2</data>
+</edge>
+<edge source="currenttime" target="sotaproject">
+  <data key="d5">45</data>
+</edge>
+<edge source="currenttime" target="paperpaper_ru">
+  <data key="d5">9</data>
+</edge>
+<edge source="currenttime" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="agentstvonews">
+  <data key="d5">5</data>
+</edge>
+<edge source="currenttime" target="SolovievLive">
+  <data key="d5">9</data>
+</edge>
+<edge source="currenttime" target="ToBeOr_Official">
+  <data key="d5">23</data>
+</edge>
+<edge source="currenttime" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="MID_Russia">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="MariaVladimirovnaZakharova">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="svoboda_radio">
+  <data key="d5">13</data>
+</edge>
+<edge source="currenttime" target="idelrealii">
+  <data key="d5">19</data>
+</edge>
+<edge source="currenttime" target="vedomosti">
+  <data key="d5">7</data>
+</edge>
+<edge source="currenttime" target="Tsaplienko">
+  <data key="d5">5</data>
+</edge>
+<edge source="currenttime" target="femagainstwar">
+  <data key="d5">2</data>
+</edge>
+<edge source="currenttime" target="eschulmann">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="currenttime" target="tass_agency">
+  <data key="d5">2</data>
+</edge>
+<edge source="currenttime" target="kommersant">
+  <data key="d5">1</data>
+</edge>
+<edge source="otsuka_bld" target="ToBeOr_Official">
+  <data key="d5">1</data>
+</edge>
+<edge source="otsuka_bld" target="Sandymustache">
+  <data key="d5">1</data>
+</edge>
+<edge source="ToBeOr_Official" target="dmytrogordon_official">
+  <data key="d5">22</data>
+</edge>
+<edge source="ToBeOr_Official" target="istories_media">
+  <data key="d5">9</data>
+</edge>
+<edge source="ToBeOr_Official" target="rybar">
+  <data key="d5">1</data>
+</edge>
+<edge source="ToBeOr_Official" target="dimsmirnov175">
+  <data key="d5">1</data>
+</edge>
+<edge source="ToBeOr_Official" target="svoboda_radio">
+  <data key="d5">3</data>
+</edge>
+<edge source="ToBeOr_Official" target="SolovievLive">
+  <data key="d5">13</data>
+</edge>
+<edge source="ToBeOr_Official" target="meduzalive">
+  <data key="d5">6</data>
+</edge>
+<edge source="ToBeOr_Official" target="sotaproject">
+  <data key="d5">7</data>
+</edge>
+<edge source="ToBeOr_Official" target="Tsaplienko">
+  <data key="d5">3</data>
+</edge>
+<edge source="ToBeOr_Official" target="femagainstwar">
+  <data key="d5">1</data>
+</edge>
+<edge source="ToBeOr_Official" target="paperpaper_ru">
+  <data key="d5">1</data>
+</edge>
+<edge source="ToBeOr_Official" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="steven_bb" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="steven_bb" target="politadequate">
+  <data key="d5">1</data>
+</edge>
+<edge source="steven_bb" target="mysly">
+  <data key="d5">1</data>
+</edge>
+<edge source="steven_bb" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="steven_bb" target="hellotransfer">
+  <data key="d5">13</data>
+</edge>
+<edge source="protiktok" target="SolovievLive">
+  <data key="d5">20</data>
+</edge>
+<edge source="protiktok" target="ASGasparyan">
+  <data key="d5">2</data>
+</edge>
+<edge source="protiktok" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="protiktok" target="AptiAlaudinovAKHMAT">
+  <data key="d5">1</data>
+</edge>
+<edge source="protiktok" target="epoddubny">
+  <data key="d5">2</data>
+</edge>
+<edge source="protiktok" target="Taynaya_kantselyariya">
+  <data key="d5">1</data>
+</edge>
+<edge source="protiktok" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="protiktok" target="dmytrogordon_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="protiktok" target="martynov2021">
+  <data key="d5">1</data>
+</edge>
+<edge source="politadequate" target="dimsmirnov175">
+  <data key="d5">10</data>
+</edge>
+<edge source="politadequate" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="politadequate" target="polittemnik">
+  <data key="d5">1</data>
+</edge>
+<edge source="politadequate" target="mysly">
+  <data key="d5">7</data>
+</edge>
+<edge source="politadequate" target="boris_rozhin">
+  <data key="d5">2</data>
+</edge>
+<edge source="politadequate" target="mod_russia">
+  <data key="d5">1</data>
+</edge>
+<edge source="politadequate" target="ASGasparyan">
+  <data key="d5">1</data>
+</edge>
+<edge source="politadequate" target="sotaproject">
+  <data key="d5">1</data>
+</edge>
+<edge source="tass_agency" target="martynov2021">
+  <data key="d5">18</data>
+</edge>
+<edge source="tass_agency" target="GardeZ66">
+  <data key="d5">25</data>
+</edge>
+<edge source="tass_agency" target="polittemnik">
+  <data key="d5">4</data>
+</edge>
+<edge source="tass_agency" target="AptiAlaudinovAKHMAT">
+  <data key="d5">8</data>
+</edge>
+<edge source="tass_agency" target="boris_rozhin">
+  <data key="d5">9</data>
+</edge>
+<edge source="tass_agency" target="vladlentatarsky">
+  <data key="d5">2</data>
+</edge>
+<edge source="tass_agency" target="thegraschenkov">
+  <data key="d5">3</data>
+</edge>
+<edge source="tass_agency" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="tass_agency" target="SolovievLive">
+  <data key="d5">5</data>
+</edge>
+<edge source="tass_agency" target="MariaVladimirovnaZakharova">
+  <data key="d5">5</data>
+</edge>
+<edge source="tass_agency" target="slutsky_l">
+  <data key="d5">4</data>
+</edge>
+<edge source="tass_agency" target="warfakes">
+  <data key="d5">2</data>
+</edge>
+<edge source="tass_agency" target="agentstvonews">
+  <data key="d5">5</data>
+</edge>
+<edge source="tass_agency" target="sotaproject">
+  <data key="d5">2</data>
+</edge>
+<edge source="tass_agency" target="dmytrogordon_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="tass_agency" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="tass_agency" target="paperpaper_ru">
+  <data key="d5">2</data>
+</edge>
+<edge source="tass_agency" target="fontankaspb">
+  <data key="d5">1</data>
+</edge>
+<edge source="Sandymustache" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="rybar" target="SolovievLive">
+  <data key="d5">11</data>
+</edge>
+<edge source="rybar" target="epoddubny">
+  <data key="d5">1</data>
+</edge>
+<edge source="rybar" target="NeoficialniyBeZsonoV">
+  <data key="d5">4</data>
+</edge>
+<edge source="rybar" target="opersvodki">
+  <data key="d5">37</data>
+</edge>
+<edge source="rybar" target="MedvedevVesti">
+  <data key="d5">103</data>
+</edge>
+<edge source="rybar" target="vysokygovorit">
+  <data key="d5">150</data>
+</edge>
+<edge source="rybar" target="mig41">
+  <data key="d5">7</data>
+</edge>
+<edge source="rybar" target="voenkorKotenok">
+  <data key="d5">6</data>
+</edge>
+<edge source="rybar" target="readovkanews">
+  <data key="d5">1</data>
+</edge>
+<edge source="rybar" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="rybar" target="razvozhaev">
+  <data key="d5">2</data>
+</edge>
+<edge source="rybar" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="vvgladkov" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="epoddubny" target="SolovievLive">
+  <data key="d5">55</data>
+</edge>
+<edge source="epoddubny" target="mod_russia">
+  <data key="d5">9</data>
+</edge>
+<edge source="epoddubny" target="boris_rozhin">
+  <data key="d5">4</data>
+</edge>
+<edge source="epoddubny" target="ejdailyru">
+  <data key="d5">3</data>
+</edge>
+<edge source="epoddubny" target="vysokygovorit">
+  <data key="d5">61</data>
+</edge>
+<edge source="epoddubny" target="mysly">
+  <data key="d5">4</data>
+</edge>
+<edge source="epoddubny" target="SergeyKolyasnikov">
+  <data key="d5">2</data>
+</edge>
+<edge source="epoddubny" target="dimonundmir">
+  <data key="d5">3</data>
+</edge>
+<edge source="epoddubny" target="NeoficialniyBeZsonoV">
+  <data key="d5">2</data>
+</edge>
+<edge source="epoddubny" target="MedvedevVesti">
+  <data key="d5">13</data>
+</edge>
+<edge source="epoddubny" target="GardeZ66">
+  <data key="d5">3</data>
+</edge>
+<edge source="Hinshtein" target="SolovievLive">
+  <data key="d5">19</data>
+</edge>
+<edge source="Hinshtein" target="AptiAlaudinovAKHMAT">
+  <data key="d5">4</data>
+</edge>
+<edge source="Hinshtein" target="gubernator_46">
+  <data key="d5">81</data>
+</edge>
+<edge source="Hinshtein" target="opersvodki">
+  <data key="d5">4</data>
+</edge>
+<edge source="femagainstwar" target="interfaxonline">
+  <data key="d5">1</data>
+</edge>
+<edge source="femagainstwar" target="agentstvonews">
+  <data key="d5">2</data>
+</edge>
+<edge source="femagainstwar" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="femagainstwar" target="meduzalive">
+  <data key="d5">7</data>
+</edge>
+<edge source="femagainstwar" target="istories_media">
+  <data key="d5">4</data>
+</edge>
+<edge source="femagainstwar" target="eschulmann">
+  <data key="d5">1</data>
+</edge>
+<edge source="femagainstwar" target="paperpaper_ru">
+  <data key="d5">3</data>
+</edge>
+<edge source="femagainstwar" target="holodmedia">
+  <data key="d5">2</data>
+</edge>
+<edge source="femagainstwar" target="sotaproject">
+  <data key="d5">3</data>
+</edge>
+<edge source="femagainstwar" target="severrealii">
+  <data key="d5">1</data>
+</edge>
+<edge source="vr_medinskiy" target="SolovievLive">
+  <data key="d5">33</data>
+</edge>
+<edge source="vr_medinskiy" target="ASGasparyan">
+  <data key="d5">1</data>
+</edge>
+<edge source="ksbchk" target="ostorozhno_novosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="Sladkov_plus" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="readovkanews" target="mod_russia">
+  <data key="d5">1</data>
+</edge>
+<edge source="readovkanews" target="sotaproject">
+  <data key="d5">10</data>
+</edge>
+<edge source="readovkanews" target="SergeyKolyasnikov">
+  <data key="d5">28</data>
+</edge>
+<edge source="readovkanews" target="boris_rozhin">
+  <data key="d5">5</data>
+</edge>
+<edge source="readovkanews" target="MedvedevVesti">
+  <data key="d5">2</data>
+</edge>
+<edge source="readovkanews" target="opersvodki">
+  <data key="d5">2</data>
+</edge>
+<edge source="readovkanews" target="warfakes">
+  <data key="d5">3</data>
+</edge>
+<edge source="readovkanews" target="ostorozhno_novosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="ASGasparyan" target="SolovievLive">
+  <data key="d5">94</data>
+</edge>
+<edge source="ASGasparyan" target="SergeyKolyasnikov">
+  <data key="d5">5</data>
+</edge>
+<edge source="ASGasparyan" target="politjoystic">
+  <data key="d5">5</data>
+</edge>
+<edge source="ASGasparyan" target="dimsmirnov175">
+  <data key="d5">12</data>
+</edge>
+<edge source="ASGasparyan" target="martynov2021">
+  <data key="d5">10</data>
+</edge>
+<edge source="ASGasparyan" target="mysly">
+  <data key="d5">5</data>
+</edge>
+<edge source="ASGasparyan" target="vysokygovorit">
+  <data key="d5">5</data>
+</edge>
+<edge source="ASGasparyan" target="dimonundmir">
+  <data key="d5">1</data>
+</edge>
+<edge source="ASGasparyan" target="hellotransfer">
+  <data key="d5">2</data>
+</edge>
+<edge source="ASGasparyan" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="ASGasparyan" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="ASGasparyan" target="opersvodki">
+  <data key="d5">2</data>
+</edge>
+<edge source="ASGasparyan" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="martynov2021" target="mod_russia">
+  <data key="d5">3</data>
+</edge>
+<edge source="martynov2021" target="mysly">
+  <data key="d5">1</data>
+</edge>
+<edge source="martynov2021" target="vysokygovorit">
+  <data key="d5">1</data>
+</edge>
+<edge source="martynov2021" target="politjoystic">
+  <data key="d5">9</data>
+</edge>
+<edge source="martynov2021" target="dimonundmir">
+  <data key="d5">2</data>
+</edge>
+<edge source="martynov2021" target="SolovievLive">
+  <data key="d5">2</data>
+</edge>
+<edge source="martynov2021" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="martynov2021" target="NeoficialniyBeZsonoV">
+  <data key="d5">1</data>
+</edge>
+<edge source="martynov2021" target="opersvodki">
+  <data key="d5">1</data>
+</edge>
+<edge source="martynov2021" target="MID_Russia">
+  <data key="d5">2</data>
+</edge>
+<edge source="martynov2021" target="MariaVladimirovnaZakharova">
+  <data key="d5">1</data>
+</edge>
+<edge source="government_rus" target="MID_Russia">
+  <data key="d5">41</data>
+</edge>
+<edge source="government_rus" target="politjoystic">
+  <data key="d5">41</data>
+</edge>
+<edge source="government_rus" target="mchs_official">
+  <data key="d5">18</data>
+</edge>
+<edge source="government_rus" target="SolovievLive">
+  <data key="d5">2</data>
+</edge>
+<edge source="government_rus" target="dimsmirnov175">
+  <data key="d5">1</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="SolovievLive">
+  <data key="d5">571</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="vysokygovorit">
+  <data key="d5">8</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="dimsmirnov175">
+  <data key="d5">19</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="mod_russia">
+  <data key="d5">1</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="mig41">
+  <data key="d5">4</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="MariaVladimirovnaZakharova">
+  <data key="d5">2</data>
+</edge>
+<edge source="AptiAlaudinovAKHMAT" target="kommersant">
+  <data key="d5">2</data>
+</edge>
+<edge source="MID_Russia" target="mod_russia">
+  <data key="d5">44</data>
+</edge>
+<edge source="MID_Russia" target="politjoystic">
+  <data key="d5">7</data>
+</edge>
+<edge source="MID_Russia" target="GardeZ66">
+  <data key="d5">2</data>
+</edge>
+<edge source="MID_Russia" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="MID_Russia" target="sotaproject">
+  <data key="d5">1</data>
+</edge>
+<edge source="MID_Russia" target="SolovievLive">
+  <data key="d5">8</data>
+</edge>
+<edge source="MID_Russia" target="slutsky_l">
+  <data key="d5">1</data>
+</edge>
+<edge source="MID_Russia" target="boris_rozhin">
+  <data key="d5">3</data>
+</edge>
+<edge source="MID_Russia" target="MariaVladimirovnaZakharova">
+  <data key="d5">248</data>
+</edge>
+<edge source="MID_Russia" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="MID_Russia" target="mchs_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="MID_Russia" target="polittemnik">
+  <data key="d5">1</data>
+</edge>
+<edge source="gubernator_46" target="mod_russia">
+  <data key="d5">103</data>
+</edge>
+<edge source="gubernator_46" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="Rezident_ua" target="SolovievLive">
+  <data key="d5">2</data>
+</edge>
+<edge source="Rezident_ua" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="Rezident_ua" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="paperpaper_ru" target="dmytrogordon_official">
+  <data key="d5">1</data>
+</edge>
+<edge source="paperpaper_ru" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="paperpaper_ru" target="sotaproject">
+  <data key="d5">13</data>
+</edge>
+<edge source="paperpaper_ru" target="istories_media">
+  <data key="d5">21</data>
+</edge>
+<edge source="paperpaper_ru" target="meduzalive">
+  <data key="d5">14</data>
+</edge>
+<edge source="paperpaper_ru" target="holodmedia">
+  <data key="d5">2</data>
+</edge>
+<edge source="paperpaper_ru" target="boris_rozhin">
+  <data key="d5">1</data>
+</edge>
+<edge source="paperpaper_ru" target="vedomosti">
+  <data key="d5">7</data>
+</edge>
+<edge source="paperpaper_ru" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="paperpaper_ru" target="fontankaspb">
+  <data key="d5">7</data>
+</edge>
+<edge source="paperpaper_ru" target="agentstvonews">
+  <data key="d5">8</data>
+</edge>
+<edge source="paperpaper_ru" target="severrealii">
+  <data key="d5">8</data>
+</edge>
+<edge source="slutsky_l" target="dimonundmir">
+  <data key="d5">1</data>
+</edge>
+<edge source="slutsky_l" target="SolovievLive">
+  <data key="d5">6</data>
+</edge>
+<edge source="slutsky_l" target="vysokygovorit">
+  <data key="d5">37</data>
+</edge>
+<edge source="mash" target="vladlentatarsky">
+  <data key="d5">2</data>
+</edge>
+<edge source="mash" target="MedvedevVesti">
+  <data key="d5">1</data>
+</edge>
+<edge source="eschulmann" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="eschulmann" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="adelimkhanov_95" target="SolovievLive">
+  <data key="d5">1</data>
+</edge>
+<edge source="GardeZ66" target="mod_russia">
+  <data key="d5">1</data>
+</edge>
+<edge source="GardeZ66" target="MedvedevVesti">
+  <data key="d5">1</data>
+</edge>
+<edge source="GardeZ66" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="GardeZ66" target="sotaproject">
+  <data key="d5">1</data>
+</edge>
+<edge source="thegraschenkov" target="SolovievLive">
+  <data key="d5">4</data>
+</edge>
+<edge source="thegraschenkov" target="dimsmirnov175">
+  <data key="d5">1</data>
+</edge>
+<edge source="thegraschenkov" target="politjoystic">
+  <data key="d5">4</data>
+</edge>
+<edge source="thegraschenkov" target="sotaproject">
+  <data key="d5">1</data>
+</edge>
+<edge source="thegraschenkov" target="kommersant">
+  <data key="d5">1</data>
+</edge>
+<edge source="kommersant" target="severrealii">
+  <data key="d5">1</data>
+</edge>
+<edge source="kommersant" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="kommersant" target="dimsmirnov175">
+  <data key="d5">1</data>
+</edge>
+<edge source="kommersant" target="ejdailyru">
+  <data key="d5">8</data>
+</edge>
+<edge source="kommersant" target="sotaproject">
+  <data key="d5">4</data>
+</edge>
+<edge source="kommersant" target="meduzalive">
+  <data key="d5">4</data>
+</edge>
+<edge source="kommersant" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="kommersant" target="fontankaspb">
+  <data key="d5">1</data>
+</edge>
+<edge source="kommersant" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="kommersant" target="polittemnik">
+  <data key="d5">1</data>
+</edge>
+<edge source="obshina_ru" target="MedvedevVesti">
+  <data key="d5">1</data>
+</edge>
+<edge source="obshina_ru" target="voenkorKotenok">
+  <data key="d5">1</data>
+</edge>
+<edge source="mod_russia" target="boris_rozhin">
+  <data key="d5">12</data>
+</edge>
+<edge source="mod_russia" target="politjoystic">
+  <data key="d5">2</data>
+</edge>
+<edge source="mod_russia" target="SolovievLive">
+  <data key="d5">4</data>
+</edge>
+<edge source="mod_russia" target="warfakes">
+  <data key="d5">14</data>
+</edge>
+<edge source="dimsmirnov175" target="politjoystic">
+  <data key="d5">36</data>
+</edge>
+<edge source="dimsmirnov175" target="SolovievLive">
+  <data key="d5">11</data>
+</edge>
+<edge source="dimsmirnov175" target="ejdailyru">
+  <data key="d5">27</data>
+</edge>
+<edge source="dimsmirnov175" target="hellotransfer">
+  <data key="d5">14</data>
+</edge>
+<edge source="dimsmirnov175" target="russicaRU">
+  <data key="d5">38</data>
+</edge>
+<edge source="dimsmirnov175" target="SergeyKolyasnikov">
+  <data key="d5">15</data>
+</edge>
+<edge source="dimsmirnov175" target="polittemnik">
+  <data key="d5">7</data>
+</edge>
+<edge source="dimsmirnov175" target="vysokygovorit">
+  <data key="d5">12</data>
+</edge>
+<edge source="dimsmirnov175" target="dimonundmir">
+  <data key="d5">1</data>
+</edge>
+<edge source="dimsmirnov175" target="mig41">
+  <data key="d5">5</data>
+</edge>
+<edge source="dimsmirnov175" target="ostorozhno_novosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="dimsmirnov175" target="Taynaya_kantselyariya">
+  <data key="d5">1</data>
+</edge>
+<edge source="dimsmirnov175" target="opersvodki">
+  <data key="d5">1</data>
+</edge>
+<edge source="mchs_official" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="opersvodki" target="RVvoenkor">
+  <data key="d5">7</data>
+</edge>
+<edge source="opersvodki" target="boris_rozhin">
+  <data key="d5">3</data>
+</edge>
+<edge source="opersvodki" target="NeoficialniyBeZsonoV">
+  <data key="d5">62</data>
+</edge>
+<edge source="opersvodki" target="MedvedevVesti">
+  <data key="d5">1</data>
+</edge>
+<edge source="opersvodki" target="rustroyka1945">
+  <data key="d5">1</data>
+</edge>
+<edge source="opersvodki" target="mig41">
+  <data key="d5">4</data>
+</edge>
+<edge source="opersvodki" target="voenkorKotenok">
+  <data key="d5">1</data>
+</edge>
+<edge source="sotaproject" target="ejdailyru">
+  <data key="d5">15</data>
+</edge>
+<edge source="sotaproject" target="dmytrogordon_official">
+  <data key="d5">15</data>
+</edge>
+<edge source="sotaproject" target="interfaxonline">
+  <data key="d5">7</data>
+</edge>
+<edge source="sotaproject" target="SolovievLive">
+  <data key="d5">7</data>
+</edge>
+<edge source="sotaproject" target="Tsaplienko">
+  <data key="d5">2</data>
+</edge>
+<edge source="sotaproject" target="mig41">
+  <data key="d5">1</data>
+</edge>
+<edge source="sotaproject" target="istories_media">
+  <data key="d5">52</data>
+</edge>
+<edge source="sotaproject" target="meduzalive">
+  <data key="d5">34</data>
+</edge>
+<edge source="sotaproject" target="severrealii">
+  <data key="d5">13</data>
+</edge>
+<edge source="sotaproject" target="bazabazon">
+  <data key="d5">6</data>
+</edge>
+<edge source="sotaproject" target="idelrealii">
+  <data key="d5">1</data>
+</edge>
+<edge source="sotaproject" target="razvozhaev">
+  <data key="d5">1</data>
+</edge>
+<edge source="sotaproject" target="ovdinfo">
+  <data key="d5">1</data>
+</edge>
+<edge source="sotaproject" target="agentstvonews">
+  <data key="d5">4</data>
+</edge>
+<edge source="sotaproject" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="sotaproject" target="vedomosti">
+  <data key="d5">2</data>
+</edge>
+<edge source="sotaproject" target="svoboda_radio">
+  <data key="d5">5</data>
+</edge>
+<edge source="sotaproject" target="fontankaspb">
+  <data key="d5">1</data>
+</edge>
+<edge source="dimonundmir" target="SolovievLive">
+  <data key="d5">13</data>
+</edge>
+<edge source="dimonundmir" target="vysokygovorit">
+  <data key="d5">5</data>
+</edge>
+<edge source="dimonundmir" target="polittemnik">
+  <data key="d5">1</data>
+</edge>
+<edge source="severrealii" target="agentstvonews">
+  <data key="d5">5</data>
+</edge>
+<edge source="severrealii" target="idelrealii">
+  <data key="d5">89</data>
+</edge>
+<edge source="severrealii" target="istories_media">
+  <data key="d5">9</data>
+</edge>
+<edge source="severrealii" target="ovdinfo">
+  <data key="d5">2</data>
+</edge>
+<edge source="severrealii" target="vedomosti">
+  <data key="d5">2</data>
+</edge>
+<edge source="severrealii" target="svoboda_radio">
+  <data key="d5">1</data>
+</edge>
+<edge source="severrealii" target="meduzalive">
+  <data key="d5">5</data>
+</edge>
+<edge source="sparkhomenkovoice" target="fontankaspb">
+  <data key="d5">4</data>
+</edge>
+<edge source="vysokygovorit" target="RVvoenkor">
+  <data key="d5">2</data>
+</edge>
+<edge source="vysokygovorit" target="SolovievLive">
+  <data key="d5">33</data>
+</edge>
+<edge source="vysokygovorit" target="SergeyKolyasnikov">
+  <data key="d5">10</data>
+</edge>
+<edge source="vysokygovorit" target="ejdailyru">
+  <data key="d5">7</data>
+</edge>
+<edge source="vysokygovorit" target="mysly">
+  <data key="d5">2</data>
+</edge>
+<edge source="vysokygovorit" target="boris_rozhin">
+  <data key="d5">5</data>
+</edge>
+<edge source="vysokygovorit" target="vv_volodin">
+  <data key="d5">65</data>
+</edge>
+<edge source="vysokygovorit" target="mig41">
+  <data key="d5">4</data>
+</edge>
+<edge source="vysokygovorit" target="MedvedevVesti">
+  <data key="d5">35</data>
+</edge>
+<edge source="vysokygovorit" target="vladlentatarsky">
+  <data key="d5">5</data>
+</edge>
+<edge source="varlamov_news" target="agentstvonews">
+  <data key="d5">1</data>
+</edge>
+<edge source="varlamov_news" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="bazabazon" target="interfaxonline">
+  <data key="d5">2</data>
+</edge>
+<edge source="bazabazon" target="meduzalive">
+  <data key="d5">8</data>
+</edge>
+<edge source="bazabazon" target="istories_media">
+  <data key="d5">12</data>
+</edge>
+<edge source="SolovievLive" target="SergeyKolyasnikov">
+  <data key="d5">28</data>
+</edge>
+<edge source="SolovievLive" target="politjoystic">
+  <data key="d5">14</data>
+</edge>
+<edge source="SolovievLive" target="polittemnik">
+  <data key="d5">6</data>
+</edge>
+<edge source="SolovievLive" target="MedvedevVesti">
+  <data key="d5">10</data>
+</edge>
+<edge source="SolovievLive" target="mysly">
+  <data key="d5">7</data>
+</edge>
+<edge source="SolovievLive" target="mig41">
+  <data key="d5">2</data>
+</edge>
+<edge source="SolovievLive" target="boris_rozhin">
+  <data key="d5">9</data>
+</edge>
+<edge source="SolovievLive" target="vv_volodin">
+  <data key="d5">1</data>
+</edge>
+<edge source="SolovievLive" target="MariaVladimirovnaZakharova">
+  <data key="d5">61</data>
+</edge>
+<edge source="SolovievLive" target="ejdailyru">
+  <data key="d5">3</data>
+</edge>
+<edge source="SolovievLive" target="vedomosti">
+  <data key="d5">12</data>
+</edge>
+<edge source="SolovievLive" target="istories_media">
+  <data key="d5">13</data>
+</edge>
+<edge source="SolovievLive" target="dmytrogordon_official">
+  <data key="d5">10</data>
+</edge>
+<edge source="SolovievLive" target="Taynaya_kantselyariya">
+  <data key="d5">2</data>
+</edge>
+<edge source="SolovievLive" target="Tsaplienko">
+  <data key="d5">10</data>
+</edge>
+<edge source="SolovievLive" target="RVvoenkor">
+  <data key="d5">3</data>
+</edge>
+<edge source="SolovievLive" target="meduzalive">
+  <data key="d5">8</data>
+</edge>
+<edge source="SolovievLive" target="warfakes">
+  <data key="d5">5</data>
+</edge>
+<edge source="SolovievLive" target="agentstvonews">
+  <data key="d5">2</data>
+</edge>
+<edge source="MariaVladimirovnaZakharova" target="vedomosti">
+  <data key="d5">11</data>
+</edge>
+<edge source="MariaVladimirovnaZakharova" target="NeoficialniyBeZsonoV">
+  <data key="d5">1</data>
+</edge>
+<edge source="MariaVladimirovnaZakharova" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="MariaVladimirovnaZakharova" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="vv_volodin" target="SergeyKolyasnikov">
+  <data key="d5">19</data>
+</edge>
+<edge source="vv_volodin" target="RVvoenkor">
+  <data key="d5">5</data>
+</edge>
+<edge source="Taynaya_kantselyariya" target="polittemnik">
+  <data key="d5">3</data>
+</edge>
+<edge source="Taynaya_kantselyariya" target="ejdailyru">
+  <data key="d5">1</data>
+</edge>
+<edge source="mig41" target="RVvoenkor">
+  <data key="d5">18</data>
+</edge>
+<edge source="mig41" target="MedvedevVesti">
+  <data key="d5">17</data>
+</edge>
+<edge source="mig41" target="russicaRU">
+  <data key="d5">6</data>
+</edge>
+<edge source="mig41" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="mig41" target="ejdailyru">
+  <data key="d5">3</data>
+</edge>
+<edge source="mig41" target="istories_media">
+  <data key="d5">1</data>
+</edge>
+<edge source="mig41" target="meduzalive">
+  <data key="d5">2</data>
+</edge>
+<edge source="mig41" target="vedomosti">
+  <data key="d5">2</data>
+</edge>
+<edge source="mig41" target="Tsaplienko">
+  <data key="d5">1</data>
+</edge>
+<edge source="maximkatz" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="istories_media" target="agentstvonews">
+  <data key="d5">11</data>
+</edge>
+<edge source="istories_media" target="meduzalive">
+  <data key="d5">41</data>
+</edge>
+<edge source="istories_media" target="ejdailyru">
+  <data key="d5">13</data>
+</edge>
+<edge source="istories_media" target="politjoystic">
+  <data key="d5">3</data>
+</edge>
+<edge source="istories_media" target="dmytrogordon_official">
+  <data key="d5">10</data>
+</edge>
+<edge source="istories_media" target="vedomosti">
+  <data key="d5">2</data>
+</edge>
+<edge source="istories_media" target="svoboda_radio">
+  <data key="d5">3</data>
+</edge>
+<edge source="istories_media" target="idelrealii">
+  <data key="d5">1</data>
+</edge>
+<edge source="istories_media" target="Tsaplienko">
+  <data key="d5">1</data>
+</edge>
+<edge source="istories_media" target="iditelesom_help">
+  <data key="d5">2</data>
+</edge>
+<edge source="istories_media" target="fontankaspb">
+  <data key="d5">1</data>
+</edge>
+<edge source="warfakes" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="warfakes" target="boris_rozhin">
+  <data key="d5">2</data>
+</edge>
+<edge source="auantonov" target="Tsaplienko">
+  <data key="d5">1</data>
+</edge>
+<edge source="auantonov" target="MedvedevVesti">
+  <data key="d5">1</data>
+</edge>
+<edge source="boris_rozhin" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="boris_rozhin" target="NeoficialniyBeZsonoV">
+  <data key="d5">2</data>
+</edge>
+<edge source="boris_rozhin" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="hellotransfer" target="ejdailyru">
+  <data key="d5">2</data>
+</edge>
+<edge source="hellotransfer" target="mysly">
+  <data key="d5">1</data>
+</edge>
+<edge source="hellotransfer" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="hellotransfer" target="politjoystic">
+  <data key="d5">3</data>
+</edge>
+<edge source="ejdailyru" target="russicaRU">
+  <data key="d5">4</data>
+</edge>
+<edge source="ejdailyru" target="politjoystic">
+  <data key="d5">12</data>
+</edge>
+<edge source="ejdailyru" target="SergeyKolyasnikov">
+  <data key="d5">2</data>
+</edge>
+<edge source="ejdailyru" target="agentstvonews">
+  <data key="d5">8</data>
+</edge>
+<edge source="ejdailyru" target="Tsaplienko">
+  <data key="d5">1</data>
+</edge>
+<edge source="ejdailyru" target="mysly">
+  <data key="d5">1</data>
+</edge>
+<edge source="ejdailyru" target="interfaxonline">
+  <data key="d5">1</data>
+</edge>
+<edge source="ejdailyru" target="meduzalive">
+  <data key="d5">3</data>
+</edge>
+<edge source="ejdailyru" target="vedomosti">
+  <data key="d5">2</data>
+</edge>
+<edge source="dmytrogordon_official" target="fontankaspb">
+  <data key="d5">1</data>
+</edge>
+<edge source="dmytrogordon_official" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="dmytrogordon_official" target="Tsaplienko">
+  <data key="d5">14</data>
+</edge>
+<edge source="dmytrogordon_official" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="dmytrogordon_official" target="svoboda_radio">
+  <data key="d5">5</data>
+</edge>
+<edge source="dmytrogordon_official" target="meduzalive">
+  <data key="d5">9</data>
+</edge>
+<edge source="dmytrogordon_official" target="vedomosti">
+  <data key="d5">5</data>
+</edge>
+<edge source="dmytrogordon_official" target="agentstvonews">
+  <data key="d5">5</data>
+</edge>
+<edge source="svoboda_radio" target="agentstvonews">
+  <data key="d5">4</data>
+</edge>
+<edge source="svoboda_radio" target="Tsaplienko">
+  <data key="d5">3</data>
+</edge>
+<edge source="svoboda_radio" target="meduzalive">
+  <data key="d5">1</data>
+</edge>
+<edge source="dshrg2" target="meduzalive">
+  <data key="d5">3</data>
+</edge>
+<edge source="idelrealii" target="holodmedia">
+  <data key="d5">1</data>
+</edge>
+<edge source="agentstvonews" target="politjoystic">
+  <data key="d5">1</data>
+</edge>
+<edge source="agentstvonews" target="russicaRU">
+  <data key="d5">2</data>
+</edge>
+<edge source="agentstvonews" target="Tsaplienko">
+  <data key="d5">3</data>
+</edge>
+<edge source="agentstvonews" target="meduzalive">
+  <data key="d5">2</data>
+</edge>
+<edge source="agentstvonews" target="vedomosti">
+  <data key="d5">2</data>
+</edge>
+<edge source="agentstvonews" target="fontankaspb">
+  <data key="d5">3</data>
+</edge>
+<edge source="agentstvonews" target="interfaxonline">
+  <data key="d5">1</data>
+</edge>
+<edge source="rustroyka1945" target="MedvedevVesti">
+  <data key="d5">1</data>
+</edge>
+<edge source="rustroyka1945" target="SergeyKolyasnikov">
+  <data key="d5">15</data>
+</edge>
+<edge source="ngs_news" target="e1_news">
+  <data key="d5">51</data>
+</edge>
+<edge source="ngs_news" target="fontankaspb">
+  <data key="d5">7</data>
+</edge>
+<edge source="holodmedia" target="meduzalive">
+  <data key="d5">3</data>
+</edge>
+<edge source="fontankaspb" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="fontankaspb" target="e1_news">
+  <data key="d5">4</data>
+</edge>
+<edge source="fontankaspb" target="vedomosti">
+  <data key="d5">1</data>
+</edge>
+<edge source="interfaxonline" target="meduzalive">
+  <data key="d5">5</data>
+</edge>
+<edge source="meduzalive" target="RVvoenkor">
+  <data key="d5">1</data>
+</edge>
+<edge source="meduzalive" target="vedomosti">
+  <data key="d5">7</data>
+</edge>
+<edge source="meduzalive" target="Tsaplienko">
+  <data key="d5">3</data>
+</edge>
+<edge source="meduzalive" target="ovdinfo">
+  <data key="d5">2</data>
+</edge>
+<edge source="polittemnik" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="polittemnik" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="polittemnik" target="mysly">
+  <data key="d5">3</data>
+</edge>
+<edge source="polittemnik" target="politjoystic">
+  <data key="d5">3</data>
+</edge>
+<edge source="e1_news" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="NeoficialniyBeZsonoV" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="NeoficialniyBeZsonoV" target="MedvedevVesti">
+  <data key="d5">2</data>
+</edge>
+<edge source="NeoficialniyBeZsonoV" target="RVvoenkor">
+  <data key="d5">5</data>
+</edge>
+<edge source="Tsaplienko" target="RVvoenkor">
+  <data key="d5">4</data>
+</edge>
+<edge source="vedomosti" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="mysly" target="russicaRU">
+  <data key="d5">1</data>
+</edge>
+<edge source="mysly" target="SergeyKolyasnikov">
+  <data key="d5">1</data>
+</edge>
+<edge source="politjoystic" target="russicaRU">
+  <data key="d5">2</data>
+</edge>
+<edge source="RVvoenkor" target="MedvedevVesti">
+  <data key="d5">2</data>
+</edge>
+<edge source="SergeyKolyasnikov" target="MedvedevVesti">
+  <data key="d5">2</data>
+</edge>
+</graph></graphml>
