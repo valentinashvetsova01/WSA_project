@@ -1,181 +1,181 @@
 display_name,username,username_confidence,lean,subcategory,subscribers,tgstat_rank,source,notes
-"ЕЖ",ejdailyru,confirmed,pro,anonymous_political,610423,12,tgstat,citation_rank=2
-"Минобороны России",mod_russia,confirmed,pro,state_official,594848,14,tgstat,
-"Пул N3",dimsmirnov175,confirmed,pro,kremlin_pool,326665,32,tgstat,Dmitry Smirnov - Kremlin pool reporter
-"СОЛОВЬЁВ",SolovievLive,confirmed,pro,propagandist,1113617,8,tgstat,Vladimir Solovyov
-"Правительство России",government_rus,confirmed,pro,state_official,174034,86,tgstat,
-"Кремль. Новости",news_kremlin,confirmed,pro,kremlin_pool,287697,42,tgstat,
-"Операция Z: Военкоры Русской Весны",RVvoenkor,confirmed,pro,voenkor,1463175,6,tgstat,
-"Colonelcassad",boris_rozhin,confirmed,pro,propagandist,753583,9,tgstat,Boris Rozhin
-"Дмитрий Медведев",medvedev_telegram,confirmed,pro,politician,1744563,3,tgstat,former president
-"Рыбарь",rybar,confirmed,pro,voenkor,1557993,5,tgstat,
-"Выпускайте КракенаZ!",rlz_the_kraken,confirmed,pro,propagandist,503053,16,tgstat,
-"Вячеслав Володин",vv_volodin,confirmed,pro,politician,1303761,7,tgstat,Duma speaker
-"НЕЗЫГАРЬ",russicaRU,confirmed,pro,anonymous_political,393086,26,tgstat,
-"Kadyrov_95",RKadyrov_95,confirmed,pro,politician,2043782,1,tgstat,Chechen head
-"МИГ России",mig41,confirmed,pro,voenkor,499653,17,tgstat,corrected from milinfolive
-"Мэр Москвы Сергей Собянин",mos_sobyanin,confirmed,pro,politician,344719,30,tgstat,
-"Оперативные сводки",opersvodki,confirmed,pro,voenkor,409455,24,tgstat,
-"ПУТИН в Telegram",Putin_Tg_Russia_Novosti,confirmed,pro,aggregator,666824,11,tgstat,unofficial Putin fan channel
-"ZERGULIO",SergeyKolyasnikov,confirmed,pro,propagandist,457693,20,tgstat,
-"Неофициальный Безсонов",NeoficialniyBeZsonoV,confirmed,pro,voenkor,256416,47,tgstat,
-"Маргарита Симоньян",margaritasimonyan,confirmed,pro,propagandist,526922,15,tgstat,RT head
-"Мария Захарова",MariaVladimirovnaZakharova,confirmed,pro,state_official,476728,19,tgstat,MFA spokesperson - corrected from MZakharovaMID
-"Военкор Котенок",voenkorKotenok,confirmed,pro,voenkor,318668,35,tgstat,corrected from sashakots
-"Андрей Медведев",MedvedevVesti,confirmed,pro,propagandist,179587,81,tgstat,
-"Старше Эдды",vysokygovorit,confirmed,pro,voenkor,492508,18,tgstat,
-"Политджойстик / Politjoystic",politjoystic,confirmed,pro,anonymous_political,250563,49,tgstat,
-"МИД России",MID_Russia,guess,pro,state_official,141411,,tgstat,
-"Александр Хинштейн",Hinshtein,confirmed,pro,politician,222137,59,tgstat,
-"Многонационал",mnogonazi,confirmed,pro,propagandist,409495,23,tgstat,
-"Пушилин Д.В.",,unknown,pro,politician,82173,,tgstat,DPR head
-"Единая Россия. Официально",,unknown,pro,state_official,49085,,tgstat,
-"Настоящий Гладков",vvgladkov,confirmed,pro,politician,457542,21,tgstat,Belgorod governor
-"МЧС России",mchs_official,guess,pro,state_official,79765,,tgstat,low political signal - consider dropping
-"RIA_Kremlinpool",rian_kremlinpool,guess,pro,kremlin_pool,69174,,tgstat,
-"Владлен Татарский",vladlentatarsky,confirmed,pro,voenkor,179655,80,tgstat,deceased Apr 2023 - consider time window
-"Народный фронт",,unknown,pro,state_official,75793,,tgstat,
-"Образ будущего",obrazbuduschego2,confirmed,pro,anonymous_political,159864,96,tgstat,
-"Марат Хуснуллин",mkhusnullin,confirmed,pro,politician,224321,57,tgstat,deputy PM
-"ТРОЙКА",rustroyka1945,confirmed,pro,anonymous_political,191630,75,tgstat,
-"Воробьёв LIVE",,unknown,pro,politician,110654,,tgstat,Moscow oblast governor
-"Александр Ходаковский",aleksandr_skif,confirmed,pro,voenkor,320486,34,tgstat,DPR commander
-"Юлия Витязева",,unknown,pro,propagandist,49603,,tgstat,
-"Минстрой России",,unknown,pro,state_official,57570,,tgstat,low political signal - consider dropping
-"Скабеева",skabeeva,confirmed,pro,propagandist,225216,56,tgstat,Olga Skabeeva
-"ВЫ СЛУШАЛИ",,unknown,pro,aggregator,25733,,tgstat,
-"КСТАТИ",kstati_p,confirmed,pro,aggregator,231170,54,tgstat,
-"МАРДАН",mardanaka,confirmed,pro,propagandist,206127,69,tgstat,Sergey Mardan
-"Воин DV",,unknown,pro,voenkor,148501,,tgstat,Far East war blogger
-"Ватное болото",vatnoeboloto,confirmed,pro,Z_blogger,390813,27,tgstat,
-"Движение Первых",mypervie,confirmed,pro,state_official,200735,71,tgstat,youth org - low political - consider drop
-"Война с фейками",warfakes,confirmed,pro,state_aligned_factcheck,409991,,tgstat,verified via WebFetch - state-aligned counter-propaganda
-"Медуза — LIVE",meduzalive,confirmed,anti,independent_media,1102099,,tgstat,iноагент based in Latvia
-"Ateo Breaking",,unknown,anti,independent_media,624381,,tgstat,antiwar youtuber-led
-"Дождь",tvrain,guess,anti,independent_media,,,suggested_anti,relocated to Amsterdam
-"The Insider",theins_ru,guess,anti,independent_media,,,suggested_anti,iноагент
-"Новая газета. Европа",novayagazeta_europe,guess,anti,independent_media,,,suggested_anti,
-"BBC News Русская служба",bbcrussian,guess,neutral,foreign_media,,,suggested_neutral,
-"Радио Свобода",svoboda_radio,guess,anti,foreign_media,,,suggested_anti,RFE/RL
-"Настоящее Время",currenttime,guess,anti,foreign_media,,,suggested_anti,RFE/RL TV
-"DW на русском",dw_russian,guess,neutral,foreign_media,,,suggested_neutral,Deutsche Welle
-"Популярная политика",populyarnaya_politika,guess,anti,opposition,,,suggested_anti,Navalny team / FBK
-"Илья Варламов",varlamov_news,guess,anti,opposition,,,suggested_anti,
-"Максим Кац",maximkatz,confirmed,anti,opposition,144351,,tgstat,
-"Быть Или",ToBeOr_Official,confirmed,anti,opposition,301476,40,tgstat,
-"Александр Штефанов",alexandrshtefanov,confirmed,anti,opposition,159918,95,tgstat,leftist commentator/historian
-"Соловьиный Помёт",slvn_pomet,confirmed,anti,opposition,294152,41,tgstat,anti-Solovyov satire
-"Екатерина Шульман",eschulmann,confirmed,anti,opposition,312397,36,tgstat,political scientist Berlin-based iноагент
-"ВЧК-ОГПУ",vchkogpu,guess,mixed,anonymous_political,80341,,tgstat,insider leaks - lean debatable
-"Майкл Наки",,unknown,anti,opposition,,,suggested_anti,
-"Можем Объяснить",mozhem_obyasnit,guess,anti,independent_media,,,suggested_anti,
-"Холод",holodmedia,guess,anti,independent_media,,,suggested_anti,
-"Бумага",paperpaper_ru,guess,anti,independent_media,,,suggested_anti,
-"Faridaily",faridaily,guess,anti,independent_media,,,suggested_anti,Farida Rustamova
-"Сота",sotaproject,guess,anti,independent_media,,,suggested_anti,
+ЕЖ,ejdailyru,confirmed,pro,anonymous_political,610423,12,tgstat,citation_rank=2
+Минобороны России,mod_russia,confirmed,pro,state_official,594848,14,tgstat,
+Пул N3,dimsmirnov175,confirmed,pro,kremlin_pool,326665,32,tgstat,Dmitry Smirnov - Kremlin pool reporter
+СОЛОВЬЁВ,SolovievLive,confirmed,pro,propagandist,1113617,8,tgstat,Vladimir Solovyov
+Правительство России,government_rus,confirmed,pro,state_official,174034,86,tgstat,
+Кремль. Новости,news_kremlin,confirmed,pro,kremlin_pool,287697,42,tgstat,
+Операция Z: Военкоры Русской Весны,RVvoenkor,confirmed,pro,voenkor,1463175,6,tgstat,
+Colonelcassad,boris_rozhin,confirmed,pro,propagandist,753583,9,tgstat,Boris Rozhin
+Дмитрий Медведев,medvedev_telegram,confirmed,pro,politician,1744563,3,tgstat,former president
+Рыбарь,rybar,confirmed,pro,voenkor,1557993,5,tgstat,
+Выпускайте КракенаZ!,rlz_the_kraken,confirmed,pro,propagandist,503053,16,tgstat,
+Вячеслав Володин,vv_volodin,confirmed,pro,politician,1303761,7,tgstat,Duma speaker
+НЕЗЫГАРЬ,russicaRU,confirmed,pro,anonymous_political,393086,26,tgstat,
+Kadyrov_95,RKadyrov_95,confirmed,pro,politician,2043782,1,tgstat,Chechen head
+МИГ России,mig41,confirmed,pro,voenkor,499653,17,tgstat,corrected from milinfolive
+Мэр Москвы Сергей Собянин,mos_sobyanin,confirmed,pro,politician,344719,30,tgstat,
+Оперативные сводки,opersvodki,confirmed,pro,voenkor,409455,24,tgstat,
+ПУТИН в Telegram,Putin_Tg_Russia_Novosti,confirmed,pro,aggregator,666824,11,tgstat,unofficial Putin fan channel
+ZERGULIO,SergeyKolyasnikov,confirmed,pro,propagandist,457693,20,tgstat,
+Неофициальный Безсонов,NeoficialniyBeZsonoV,confirmed,pro,voenkor,256416,47,tgstat,
+Маргарита Симоньян,margaritasimonyan,confirmed,pro,propagandist,526922,15,tgstat,RT head
+Мария Захарова,MariaVladimirovnaZakharova,confirmed,pro,state_official,476728,19,tgstat,MFA spokesperson - corrected from MZakharovaMID
+Военкор Котенок,voenkorKotenok,confirmed,pro,voenkor,318668,35,tgstat,corrected from sashakots
+Андрей Медведев,MedvedevVesti,confirmed,pro,propagandist,179587,81,tgstat,
+Старше Эдды,vysokygovorit,confirmed,pro,voenkor,492508,18,tgstat,
+Политджойстик / Politjoystic,politjoystic,confirmed,pro,anonymous_political,250563,49,tgstat,
+МИД России,MID_Russia,guess,pro,state_official,141411,,tgstat,
+Александр Хинштейн,Hinshtein,confirmed,pro,politician,222137,59,tgstat,
+Многонационал,mnogonazi,confirmed,pro,propagandist,409495,23,tgstat,
+Пушилин Д.В.,,unknown,pro,politician,82173,,tgstat,DPR head
+Единая Россия. Официально,,unknown,pro,state_official,49085,,tgstat,
+Настоящий Гладков,vvgladkov,confirmed,pro,politician,457542,21,tgstat,Belgorod governor
+МЧС России,mchs_official,guess,pro,state_official,79765,,tgstat,low political signal - consider dropping
+RIA_Kremlinpool,rian_kremlinpool,guess,pro,kremlin_pool,69174,,tgstat,
+Владлен Татарский,vladlentatarsky,confirmed,pro,voenkor,179655,80,tgstat,deceased Apr 2023 - consider time window
+Народный фронт,,unknown,pro,state_official,75793,,tgstat,
+Образ будущего,obrazbuduschego2,confirmed,pro,anonymous_political,159864,96,tgstat,
+Марат Хуснуллин,mkhusnullin,confirmed,pro,politician,224321,57,tgstat,deputy PM
+ТРОЙКА,rustroyka1945,confirmed,pro,anonymous_political,191630,75,tgstat,
+Воробьёв LIVE,,unknown,pro,politician,110654,,tgstat,Moscow oblast governor
+Александр Ходаковский,aleksandr_skif,confirmed,pro,voenkor,320486,34,tgstat,DPR commander
+Юлия Витязева,,unknown,pro,propagandist,49603,,tgstat,
+Минстрой России,,unknown,pro,state_official,57570,,tgstat,low political signal - consider dropping
+Скабеева,skabeeva,confirmed,pro,propagandist,225216,56,tgstat,Olga Skabeeva
+ВЫ СЛУШАЛИ,,unknown,pro,aggregator,25733,,tgstat,
+КСТАТИ,kstati_p,confirmed,pro,aggregator,231170,54,tgstat,
+МАРДАН,mardanaka,confirmed,pro,propagandist,206127,69,tgstat,Sergey Mardan
+Воин DV,,unknown,pro,voenkor,148501,,tgstat,Far East war blogger
+Ватное болото,vatnoeboloto,confirmed,pro,Z_blogger,390813,27,tgstat,
+Движение Первых,mypervie,confirmed,pro,state_official,200735,71,tgstat,youth org - low political - consider drop
+Война с фейками,warfakes,confirmed,pro,state_aligned_factcheck,409991,,tgstat,verified via WebFetch - state-aligned counter-propaganda
+Медуза — LIVE,meduzalive,confirmed,anti,independent_media,1102099,,tgstat,iноагент based in Latvia
+Ateo Breaking,,unknown,anti,independent_media,624381,,tgstat,antiwar youtuber-led
+Дождь,tvrain,guess,anti,independent_media,,,suggested_anti,relocated to Amsterdam
+The Insider,theins_ru,guess,anti,independent_media,,,suggested_anti,iноагент
+Новая газета. Европа,novayagazeta_europe,guess,anti,independent_media,,,suggested_anti,
+BBC News Русская служба,bbcrussian,guess,neutral,foreign_media,,,suggested_neutral,
+Радио Свобода,svoboda_radio,guess,anti,foreign_media,,,suggested_anti,RFE/RL
+Настоящее Время,currenttime,guess,anti,foreign_media,,,suggested_anti,RFE/RL TV
+DW на русском,dw_russian,guess,neutral,foreign_media,,,suggested_neutral,Deutsche Welle
+Популярная политика,populyarnaya_politika,guess,anti,opposition,,,suggested_anti,Navalny team / FBK
+Илья Варламов,varlamov_news,guess,anti,opposition,,,suggested_anti,
+Максим Кац,maximkatz,confirmed,anti,opposition,144351,,tgstat,
+Быть Или,ToBeOr_Official,confirmed,anti,opposition,301476,40,tgstat,
+Александр Штефанов,alexandrshtefanov,confirmed,anti,opposition,159918,95,tgstat,leftist commentator/historian
+Соловьиный Помёт,slvn_pomet,confirmed,anti,opposition,294152,41,tgstat,anti-Solovyov satire
+Екатерина Шульман,eschulmann,confirmed,anti,opposition,312397,36,tgstat,political scientist Berlin-based iноагент
+ВЧК-ОГПУ,vchkogpu,guess,mixed,anonymous_political,80341,,tgstat,insider leaks - lean debatable
+Майкл Наки,,unknown,anti,opposition,,,suggested_anti,
+Можем Объяснить,mozhem_obyasnit,guess,anti,independent_media,,,suggested_anti,
+Холод,holodmedia,guess,anti,independent_media,,,suggested_anti,
+Бумага,paperpaper_ru,guess,anti,independent_media,,,suggested_anti,
+Faridaily,faridaily,guess,anti,independent_media,,,suggested_anti,Farida Rustamova
+Сота,sotaproject,guess,anti,independent_media,,,suggested_anti,
 "Осторожно, Новости",ostorozhno_novosti,guess,anti,independent_media,,,suggested_anti,Sobchak-adjacent
-"Агентство",agentstvonews,guess,anti,independent_media,,,suggested_anti,
-"Republic",republicmag,guess,anti,independent_media,,,suggested_anti,
-"Михаил Ходорковский",khodorkovski,confirmed,anti,opposition,160562,94,tgstat,exiled oligarch-politician
-"Илья Яшин",yashin_russia,confirmed,anti,opposition,,,user_provided,politician - Berlin after prison release
-"Дмитрий Гудков",DmitryGudkov,confirmed,anti,opposition,,,user_provided,exiled ex-Duma deputy
-"Команда Соболь",TeamSobol,confirmed,anti,opposition,,,user_provided,FBK / team channel of Lyubov Sobol
-"Леонид Волков",leonid_volkov,confirmed,anti,opposition,,,user_provided,FBK strategy
-"Команда Милова",team_milov,confirmed,anti,opposition,,,user_provided,FBK economics / Vladimir Milov team
-"iStories",istories_media,confirmed,anti,investigative_media,,,user_provided,iноагент - investigations
-"Проект",proektproekt,confirmed,anti,investigative_media,,,user_provided,iноагент - investigations
-"Алексей Пивоваров / Редакция",Alexey_Pivo_varov,confirmed,anti,independent_media,,,user_provided,
-"Михаил Зыгарь",zygarro,confirmed,anti,independent_media,,,user_provided,journalist/historian
-"Татьяна Фельгенгауэр",tanya_f,confirmed,anti,independent_media,,,user_provided,journalist
-"Алексей Венедиктов",aavst2022,confirmed,anti,independent_media,178942,83,tgstat,ex Эхо Москвы EIC
-"Феминистское антивоенное сопротивление",femagainstwar,confirmed,anti,antiwar_activism,,,user_provided,ФАС
-"Идите лесом",iditelesom_help,confirmed,anti,antiwar_activism,,,user_provided,helps draft dodgers
-"OVD-Info",ovdinfo,confirmed,anti,human_rights,,,user_provided,arrest monitoring - iноагент
-"Кирилл Рогов",KiRogov,confirmed,anti,analytical_intellectual,,,user_provided,Re:Russia founder - exile - political analyst
-"Сергей Гуриев",guriev_sm,confirmed,anti,analytical_intellectual,,,user_provided,economist - Sciences Po - exile
-"Артемий Лебедев",temalebedev,confirmed,pro,pro_celebrity,,,user_provided,designer turned vocal pro-war pro-Kremlin post-2022
-"Юрий Дудь",yurydud,confirmed,anti,independent_media,,,user_provided,youtube journalist - iноагент - antiwar
-"Ксения Собчак",ksbchk,confirmed,mixed,controlled_opposition,,,user_provided,Kremlin-adjacent system liberal
-"Сергей Пархоменко",sparkhomenkovoice,confirmed,anti,independent_media,,,user_provided,journalist - ex Эхо Москвы / Новая газета - iноагент
-"РИА Новости",rian_ru,guess,neutral,state_media,,,suggested_neutral,
-"ТАСС",tass_agency,guess,neutral,state_media,,,suggested_neutral,
-"Интерфакс",interfaxonline,guess,neutral,business_media,,,suggested_neutral,
-"РБК",rbc_news,guess,neutral,business_media,,,suggested_neutral,
-"Коммерсантъ",kommersant,guess,neutral,business_media,,,suggested_neutral,
-"Ведомости",vedomosti,guess,neutral,business_media,,,suggested_neutral,
-"Mash",mash,guess,pro,independent_media,,,suggested_pro,pro-Kremlin tabloid
-"Readovka",readovkanews,guess,pro,independent_media,,,suggested_pro,
-"BAZA",bazabazon,guess,pro,independent_media,,,suggested_pro,
-"Труха",truexanewsua,guess,anti,foreign_political,,,suggested_ukr,Ukrainian war channel
-"Резидент",Rezident_ua,confirmed,pro,russian_IO_disguised_as_UA,,,verified,verified via WebFetch - classic Russian IO targeting UA
-"Легитимный",legitimniy,confirmed,pro,russian_IO_disguised_as_UA,1030000,,verified,verified via WebFetch - mimics Ukrainian voice
-"Украинская правда",UkrainskaPravda,guess,anti,foreign_media,,,suggested_ukr,
-"Захар Прилепин",zakharprilepin,confirmed,pro,pro_radical,,,user_provided,writer + Z-politician
-"Александр Дугин",Agdchan,confirmed,pro,pro_radical,,,user_provided,ideologue of 'Russian world'
-"Евгений Поддубный",epoddubny,confirmed,pro,voenkor,,,user_provided,VGTRK chief military reporter
-"Сладков+",Sladkov_plus,confirmed,pro,voenkor,,,user_provided,VGTRK military reporter
-"Сибирь.Реалии",sibrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Siberia
-"Idel.Реалии",idelrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Volga/Tatarstan
-"Север.Реалии",severrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Northwest
-"Кавказ.Реалии",kavkazrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Caucasus
-"НГС - Новосибирск",ngs_news,confirmed,neutral,regional_independent,,,user_provided,Novosibirsk regional news
-"Е1.RU - Екатеринбург",e1_news,confirmed,neutral,regional_independent,,,user_provided,Yekaterinburg regional news
-"Фонтанка - СПб",fontankaspb,confirmed,neutral,regional_independent,,,user_provided,St.Petersburg - relatively independent
-"Офис президента Украины",OP_UA,confirmed,anti,foreign_official,,,user_provided,Ukrainian presidential office
-"Дмитрий Гордон",dmytrogordon_official,confirmed,anti,foreign_media,,,user_provided,Ukrainian journalist Russian-language
-"Андрей Цаплиенко",Tsaplienko,confirmed,anti,foreign_voenkor,,,user_provided,Ukrainian military reporter (1+1)
-"Алексей Арестович",O_Arestovich_official,confirmed,mixed,foreign_controversial,,,user_provided,ex-OP advisor - ambiguous post-departure
-"Адам Делимханов",adelimkhanov_95,confirmed,pro,politician,1804899,2,tgstat,Chechen #2 - Kadyrov inner circle
-"ЛОРД (Делимханов Магомед)",MDaudov_95,confirmed,pro,politician,1646756,4,tgstat,Chechen - Magomed Daudov
-"Дмитрий Никотин",dmitrynikotin,confirmed,pro,propagandist,684680,10,tgstat,large pro-war commentator
-"Русская Община ZOV",obshina_ru,confirmed,pro,Z_blogger,606156,13,tgstat,Z-movement community
-"Тайная канцелярия",Taynaya_kantselyariya,confirmed,pro,anonymous_political,418350,22,tgstat,anonymous insider analysis
-"БЕСОГОН (Михалков)",nikitabsg,confirmed,pro,pro_celebrity,400081,25,tgstat,Nikita Mikhalkov - cultural figure
-"Игорь Стрелков (Гиркин)",strelkovii,confirmed,mixed,pro_radical,367559,28,tgstat,IMPRISONED 2023 - anti-Kremlin from ultra-right - critical from inside Z-camp - methodologically valuable
-"Друзья Дональда",steven_bb,confirmed,pro,propagandist,345240,29,tgstat,pro-Trump from Russian angle
-"Операция Z (анонимный)",,unknown,pro,Z_blogger,343899,31,tgstat,different from RVvoenkor - anonymous
-"Навстречу Трансферу",hellotransfer,confirmed,pro,anonymous_political,322443,33,tgstat,anonymous Kremlin succession analyst
-"Антонов такой Антонов",auantonov,confirmed,pro,propagandist,308588,37,tgstat,
-"Мейстер",maester,confirmed,pro,anonymous_political,307758,38,tgstat,anonymous pro analyst
-"Сталингулаг",stalin_gulag,confirmed,anti,opposition,302517,39,tgstat,Alexander Gorbunov - anti-Putin satire
-"Генерал СВР",generalsvr,confirmed,mixed,anonymous_political,282225,43,tgstat,controversial 'insider' channel - possibly IO - claims SVR insider knowledge
-"Fox News Russia",Putin_tramp_mobilizaciya_migrant,confirmed,pro,propagandist,278883,44,tgstat,mimics Fox branding - pro-Russia
-"АДЕКВАТ Z",politadequate,confirmed,pro,Z_blogger,268859,45,tgstat,
-"ШЕЙНИН",GardeZ66,confirmed,pro,propagandist,258326,46,tgstat,Artem Sheinin - TV propagandist
-"Скотт Риттер в Telegram",,unknown,pro,foreign_pro_kremlin,253954,48,tgstat,former US intel analyst - pro-Russia voice
-"К1 (Компромат)",kompromat1online,confirmed,mixed,anonymous_political,248777,50,tgstat,anonymous kompromat aggregator
-"Одет аккуратно. Борода черная",oabch,confirmed,pro,anonymous_political,248588,51,tgstat,
-"Хазин",khazinml,confirmed,pro,propagandist,246968,52,tgstat,Mikhail Khazin - economist pro-Kremlin
-"ДШРГ Русич",dshrg2,confirmed,pro,pro_radical,239588,53,tgstat,ultranationalist military unit
-"Даванков",davankov,confirmed,mixed,politician,231154,55,tgstat,New People party - presidential candidate 2024 - mild opposition
-"СЛУЦКИЙ",slutsky_l,confirmed,pro,politician,222591,58,tgstat,LDPR leader after Zhirinovsky
-"Кепка Пригожина",Prigozhin_hat,confirmed,mixed,pro_radical,217072,60,tgstat,post-Wagner Prigozhin-aligned voice
-"Сергей Михеев",ironlogica,confirmed,pro,propagandist,214619,61,tgstat,TV pundit
-"Вестник Шевцова",jolynews,confirmed,pro,Z_blogger,213103,62,tgstat,
-"Усы Пескова",Sandymustache,confirmed,anti,opposition,211467,63,tgstat,satirical anti-Kremlin
-"Владимир Мединский",vr_medinskiy,confirmed,pro,state_official,210029,64,tgstat,Putin aide - cultural/historical truth
-"Апти Алаудинов АХМАТ",AptiAlaudinovAKHMAT,confirmed,pro,voenkor,209915,65,tgstat,Chechen Akhmat commander
-"Темник",polittemnik,confirmed,pro,anonymous_political,208146,66,tgstat,
-"Профессор Евстафьев",dimonundmir,confirmed,pro,analytical_intellectual,207754,67,tgstat,Dmitry Evstafiev - pro academic
-"МАРТЫНОВ",martynov2021,confirmed,anti,opposition,206372,68,tgstat,Kirill Martynov - Novaya Gazeta Europe editor
-"РаZVожаев",razvozhaev,confirmed,pro,politician,203298,70,tgstat,Sevastopol governor
-"Игорь Артамонов",igor_artamonov48,confirmed,pro,politician,194779,73,tgstat,Lipetsk governor
-"Жизнь насекомых",insect_life,confirmed,anti,opposition,193159,74,tgstat,satirical anti-Putin
-"INSIDER BLACK",,unknown,mixed,anonymous_political,190959,76,tgstat,
-"Оперштаб Курской области",gubernator_46,confirmed,pro,state_official,186513,77,tgstat,Kursk wartime ops HQ
-"ГАСПАРЯН",ASGasparyan,confirmed,pro,propagandist,180105,78,tgstat,Armen Gasparyan - TV pundit
-"РУССКИЙ ФОРМАТ",rian_novosti_russya,confirmed,pro,propagandist,180095,79,tgstat,username mimics RIA Novosti - suspicious naming
-"Капитал",politkremlin,confirmed,pro,anonymous_political,178964,82,tgstat,
-"Вован и Лексус",Russiacalling,confirmed,pro,propagandist,177256,84,tgstat,Russian pranksters
-"Солодовников. Кратко",solodovnikovia,confirmed,pro,propagandist,176359,85,tgstat,
-"Русский меч",Rrussiansword,confirmed,pro,Z_blogger,173696,87,tgstat,
-"Мюсли вслух",mysly,confirmed,pro,anonymous_political,171698,88,tgstat,
-"Орда",orda_mordora,confirmed,pro,Z_blogger,169169,89,tgstat,
-"Юрий Слюсарь",Yuri_Slusar,confirmed,pro,politician,167996,90,tgstat,Rostov governor
-"Кремлёвский мамковед",kremlin_mother_expert,confirmed,mixed,anonymous_political,167461,91,tgstat,anonymous Kremlin satire
-"Дабл Ять",otsuka_bld,confirmed,anti,opposition,163245,92,tgstat,anti-Putin satire
-"The Гращенков",thegraschenkov,confirmed,mixed,analytical_intellectual,161996,93,tgstat,Ilya Grashchenkov - political analyst
-"Политический обозреватель",protiktok,confirmed,pro,propagandist,158783,97,tgstat,
-"Тот самый Олень",trueolen,confirmed,mixed,anonymous_political,155703,98,tgstat,anonymous political satire
-"Vladimir Pastukhov",v_pastukhov,confirmed,anti,analytical_intellectual,154954,99,tgstat,exiled political scientist
-"Досье. Секретный контур",dosye_sk,confirmed,mixed,anonymous_political,151882,100,tgstat,anonymous insider compromat
+Агентство,agentstvonews,guess,anti,independent_media,,,suggested_anti,
+Republic,republicmag,guess,anti,independent_media,,,suggested_anti,
+Михаил Ходорковский,khodorkovski,confirmed,anti,opposition,160562,94,tgstat,exiled oligarch-politician
+Илья Яшин,yashin_russia,confirmed,anti,opposition,,,user_provided,politician - Berlin after prison release
+Дмитрий Гудков,DmitryGudkov,confirmed,anti,opposition,,,user_provided,exiled ex-Duma deputy
+Команда Соболь,TeamSobol,confirmed,anti,opposition,,,user_provided,FBK / team channel of Lyubov Sobol
+Леонид Волков,leonid_volkov,confirmed,anti,opposition,,,user_provided,FBK strategy
+Команда Милова,team_milov,confirmed,anti,opposition,,,user_provided,FBK economics / Vladimir Milov team
+iStories,istories_media,confirmed,anti,investigative_media,,,user_provided,iноагент - investigations
+Проект,proektproekt,confirmed,anti,investigative_media,,,user_provided,iноагент - investigations
+Алексей Пивоваров / Редакция,Alexey_Pivo_varov,confirmed,anti,independent_media,,,user_provided,
+Михаил Зыгарь,zygarro,confirmed,anti,independent_media,,,user_provided,journalist/historian
+Татьяна Фельгенгауэр,tanya_f,confirmed,anti,independent_media,,,user_provided,journalist
+Алексей Венедиктов,aavst2022,confirmed,anti,independent_media,178942,83,tgstat,ex Эхо Москвы EIC
+Феминистское антивоенное сопротивление,femagainstwar,confirmed,anti,antiwar_activism,,,user_provided,ФАС
+Идите лесом,iditelesom_help,confirmed,anti,antiwar_activism,,,user_provided,helps draft dodgers
+OVD-Info,ovdinfo,confirmed,anti,human_rights,,,user_provided,arrest monitoring - iноагент
+Кирилл Рогов,KiRogov,confirmed,anti,analytical_intellectual,,,user_provided,Re:Russia founder - exile - political analyst
+Сергей Гуриев,guriev_sm,confirmed,anti,analytical_intellectual,,,user_provided,economist - Sciences Po - exile
+Артемий Лебедев,temalebedev,confirmed,pro,pro_celebrity,,,user_provided,designer turned vocal pro-war pro-Kremlin post-2022
+Юрий Дудь,yurydud,confirmed,anti,independent_media,,,user_provided,youtube journalist - iноагент - antiwar
+Ксения Собчак,ksbchk,confirmed,mixed,controlled_opposition,,,user_provided,Kremlin-adjacent system liberal
+Сергей Пархоменко,sparkhomenkovoice,confirmed,anti,independent_media,,,user_provided,journalist - ex Эхо Москвы / Новая газета - iноагент
+РИА Новости,rian_ru,guess,neutral,state_media,,,suggested_neutral,
+ТАСС,tass_agency,guess,neutral,state_media,,,suggested_neutral,
+Интерфакс,interfaxonline,guess,neutral,business_media,,,suggested_neutral,
+РБК,rbc_news,guess,neutral,business_media,,,suggested_neutral,
+Коммерсантъ,kommersant,guess,neutral,business_media,,,suggested_neutral,
+Ведомости,vedomosti,guess,neutral,business_media,,,suggested_neutral,
+Mash,mash,guess,pro,independent_media,,,suggested_pro,pro-Kremlin tabloid
+Readovka,readovkanews,guess,pro,independent_media,,,suggested_pro,
+BAZA,bazabazon,guess,pro,independent_media,,,suggested_pro,
+Труха,truexanewsua,guess,anti,foreign_political,,,suggested_ukr,Ukrainian war channel
+Резидент,Rezident_ua,confirmed,pro,russian_IO_disguised_as_UA,,,verified,verified via WebFetch - classic Russian IO targeting UA
+Легитимный,legitimniy,confirmed,pro,russian_IO_disguised_as_UA,1030000,,verified,verified via WebFetch - mimics Ukrainian voice
+Украинская правда,UkrainskaPravda,guess,anti,foreign_media,,,suggested_ukr,
+Захар Прилепин,zakharprilepin,confirmed,pro,pro_radical,,,user_provided,writer + Z-politician
+Александр Дугин,Agdchan,confirmed,pro,pro_radical,,,user_provided,ideologue of 'Russian world'
+Евгений Поддубный,epoddubny,confirmed,pro,voenkor,,,user_provided,VGTRK chief military reporter
+Сладков+,Sladkov_plus,confirmed,pro,voenkor,,,user_provided,VGTRK military reporter
+Сибирь.Реалии,sibrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Siberia
+Idel.Реалии,idelrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Volga/Tatarstan
+Север.Реалии,severrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Northwest
+Кавказ.Реалии,kavkazrealii,confirmed,anti,regional_rferl,,,user_provided,RFE/RL Caucasus
+НГС - Новосибирск,ngs_news,confirmed,neutral,regional_independent,,,user_provided,Novosibirsk regional news
+Е1.RU - Екатеринбург,e1_news,confirmed,neutral,regional_independent,,,user_provided,Yekaterinburg regional news
+Фонтанка - СПб,fontankaspb,confirmed,neutral,regional_independent,,,user_provided,St.Petersburg - relatively independent
+Офис президента Украины,OP_UA,confirmed,anti,foreign_official,,,user_provided,Ukrainian presidential office
+Дмитрий Гордон,dmytrogordon_official,confirmed,anti,foreign_media,,,user_provided,Ukrainian journalist Russian-language
+Андрей Цаплиенко,Tsaplienko,confirmed,anti,foreign_voenkor,,,user_provided,Ukrainian military reporter (1+1)
+Алексей Арестович,O_Arestovich_official,confirmed,mixed,foreign_controversial,,,user_provided,ex-OP advisor - ambiguous post-departure
+Адам Делимханов,adelimkhanov_95,confirmed,pro,politician,1804899,2,tgstat,Chechen #2 - Kadyrov inner circle
+ЛОРД (Делимханов Магомед),MDaudov_95,confirmed,pro,politician,1646756,4,tgstat,Chechen - Magomed Daudov
+Дмитрий Никотин,dmitrynikotin,confirmed,pro,propagandist,684680,10,tgstat,large pro-war commentator
+Русская Община ZOV,obshina_ru,confirmed,pro,Z_blogger,606156,13,tgstat,Z-movement community
+Тайная канцелярия,Taynaya_kantselyariya,confirmed,pro,anonymous_political,418350,22,tgstat,anonymous insider analysis
+БЕСОГОН (Михалков),nikitabsg,confirmed,pro,pro_celebrity,400081,25,tgstat,Nikita Mikhalkov - cultural figure
+Игорь Стрелков (Гиркин),strelkovii,confirmed,mixed,pro_radical,367559,28,tgstat,IMPRISONED 2023 - anti-Kremlin from ultra-right - critical from inside Z-camp - methodologically valuable
+Друзья Дональда,steven_bb,confirmed,pro,propagandist,345240,29,tgstat,pro-Trump from Russian angle
+Операция Z (анонимный),,unknown,pro,Z_blogger,343899,31,tgstat,different from RVvoenkor - anonymous
+Навстречу Трансферу,hellotransfer,confirmed,pro,anonymous_political,322443,33,tgstat,anonymous Kremlin succession analyst
+Антонов такой Антонов,auantonov,confirmed,pro,propagandist,308588,37,tgstat,
+Мейстер,maester,confirmed,pro,anonymous_political,307758,38,tgstat,anonymous pro analyst
+Сталингулаг,stalin_gulag,confirmed,anti,opposition,302517,39,tgstat,Alexander Gorbunov - anti-Putin satire
+Генерал СВР,generalsvr,confirmed,mixed,anonymous_political,282225,43,tgstat,controversial 'insider' channel - possibly IO - claims SVR insider knowledge
+Fox News Russia,Putin_tramp_mobilizaciya_migrant,confirmed,pro,propagandist,278883,44,tgstat,mimics Fox branding - pro-Russia
+АДЕКВАТ Z,politadequate,confirmed,pro,Z_blogger,268859,45,tgstat,
+ШЕЙНИН,GardeZ66,confirmed,pro,propagandist,258326,46,tgstat,Artem Sheinin - TV propagandist
+Скотт Риттер в Telegram,,unknown,pro,foreign_pro_kremlin,253954,48,tgstat,former US intel analyst - pro-Russia voice
+К1 (Компромат),kompromat1online,confirmed,mixed,anonymous_political,248777,50,tgstat,anonymous kompromat aggregator
+Одет аккуратно. Борода черная,oabch,confirmed,pro,anonymous_political,248588,51,tgstat,
+Хазин,khazinml,confirmed,pro,propagandist,246968,52,tgstat,Mikhail Khazin - economist pro-Kremlin
+ДШРГ Русич,dshrg2,confirmed,pro,pro_radical,239588,53,tgstat,ultranationalist military unit
+Даванков,davankov,confirmed,mixed,politician,231154,55,tgstat,New People party - presidential candidate 2024 - mild opposition
+СЛУЦКИЙ,slutsky_l,confirmed,pro,politician,222591,58,tgstat,LDPR leader after Zhirinovsky
+Кепка Пригожина,Prigozhin_hat,confirmed,mixed,pro_radical,217072,60,tgstat,post-Wagner Prigozhin-aligned voice
+Сергей Михеев,ironlogica,confirmed,pro,propagandist,214619,61,tgstat,TV pundit
+Вестник Шевцова,jolynews,confirmed,pro,Z_blogger,213103,62,tgstat,
+Усы Пескова,Sandymustache,confirmed,anti,opposition,211467,63,tgstat,satirical anti-Kremlin
+Владимир Мединский,vr_medinskiy,confirmed,pro,state_official,210029,64,tgstat,Putin aide - cultural/historical truth
+Апти Алаудинов АХМАТ,AptiAlaudinovAKHMAT,confirmed,pro,voenkor,209915,65,tgstat,Chechen Akhmat commander
+Темник,polittemnik,confirmed,pro,anonymous_political,208146,66,tgstat,
+Профессор Евстафьев,dimonundmir,confirmed,pro,analytical_intellectual,207754,67,tgstat,Dmitry Evstafiev - pro academic
+МАРТЫНОВ,martynov2021,confirmed,anti,opposition,206372,68,tgstat,Kirill Martynov - Novaya Gazeta Europe editor
+РаZVожаев,razvozhaev,confirmed,pro,politician,203298,70,tgstat,Sevastopol governor
+Игорь Артамонов,igor_artamonov48,confirmed,pro,politician,194779,73,tgstat,Lipetsk governor
+Жизнь насекомых,insect_life,confirmed,anti,opposition,193159,74,tgstat,satirical anti-Putin
+INSIDER BLACK,,unknown,mixed,anonymous_political,190959,76,tgstat,
+Оперштаб Курской области,gubernator_46,confirmed,pro,state_official,186513,77,tgstat,Kursk wartime ops HQ
+ГАСПАРЯН,ASGasparyan,confirmed,pro,propagandist,180105,78,tgstat,Armen Gasparyan - TV pundit
+РУССКИЙ ФОРМАТ,rian_novosti_russya,confirmed,pro,propagandist,180095,79,tgstat,username mimics RIA Novosti - suspicious naming
+Капитал,politkremlin,confirmed,pro,anonymous_political,178964,82,tgstat,
+Вован и Лексус,Russiacalling,confirmed,pro,propagandist,177256,84,tgstat,Russian pranksters
+Солодовников. Кратко,solodovnikovia,confirmed,pro,propagandist,176359,85,tgstat,
+Русский меч,Rrussiansword,confirmed,pro,Z_blogger,173696,87,tgstat,
+Мюсли вслух,mysly,confirmed,pro,anonymous_political,171698,88,tgstat,
+Орда,orda_mordora,confirmed,pro,Z_blogger,169169,89,tgstat,
+Юрий Слюсарь,Yuri_Slusar,confirmed,pro,politician,167996,90,tgstat,Rostov governor
+Кремлёвский мамковед,kremlin_mother_expert,confirmed,mixed,anonymous_political,167461,91,tgstat,anonymous Kremlin satire
+Дабл Ять,otsuka_bld,confirmed,anti,opposition,163245,92,tgstat,anti-Putin satire
+The Гращенков,thegraschenkov,confirmed,mixed,analytical_intellectual,161996,93,tgstat,Ilya Grashchenkov - political analyst
+Политический обозреватель,protiktok,confirmed,pro,propagandist,158783,97,tgstat,
+Тот самый Олень,trueolen,confirmed,mixed,anonymous_political,155703,98,tgstat,anonymous political satire
+Vladimir Pastukhov,v_pastukhov,confirmed,anti,analytical_intellectual,154954,99,tgstat,exiled political scientist
+Досье. Секретный контур,dosye_sk,confirmed,mixed,anonymous_political,151882,100,tgstat,anonymous insider compromat

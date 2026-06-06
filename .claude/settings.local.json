@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(PYTHONIOENCODING=utf-8 python -c ' *)",
+      "Bash(npm ls *)",
+      "Bash(npm install *)",
+      "Bash(pip install *)",
+      "Bash(python __TRACKED_VAR__/scripts/office/validate.py WSA_Report.docx)",
+      "Bash(PYTHONIOENCODING=utf-8 python \"C:/Users/vshvetsova/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/5b694425-d55e-4983-a8e5-869a301d336c/10eab3d3-67ea-4fba-8765-d1f520f32c1a/skills/docx/scripts/office/validate.py\" WSA_Report.docx)",
+      "Bash(python C:/Users/vshvetsova/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/5b694425-d55e-4983-a8e5-869a301d336c/10eab3d3-67ea-4fba-8765-d1f520f32c1a/skills/docx/scripts/office/soffice.py --headless --convert-to pdf WSA_Report.docx)",
+      "PowerShell($cands = @\\(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\",\"C:\\\\Program Files \\(x86\\)\\\\LibreOffice\\\\program\\\\soffice.exe\"\\); $soffice = $cands | Where-Object { Test-Path $_ } | Select-Object -First 1; if\\($soffice\\){ Write-Output \"Found: $soffice\"; & $soffice --headless --convert-to pdf --outdir \"C:\\\\projects\\\\WSA_project\" \"C:\\\\projects\\\\WSA_project\\\\WSA_Report.docx\"; Start-Sleep -Seconds 2; if\\(Test-Path \"C:\\\\projects\\\\WSA_project\\\\WSA_Report.pdf\"\\){ Write-Output \"PDF OK\" } } else { Write-Output \"LibreOffice not found\" })",
+      "Skill(anthropic-skills:pptx)",
+      "Skill(anthropic-skills:pptx:*)",
+      "Bash(cat \"C:/Users/vshvetsova/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/5b694425-d55e-4983-a8e5-869a301d336c/10eab3d3-67ea-4fba-8765-d1f520f32c1a/skills/pptx/pptxgenjs.md\" 2>&1 | head -220)",
+      "Bash(python -c \"import reportlab; print\\('reportlab', reportlab.Version\\)\")",
+      "Bash(python -c \"import fpdf; print\\('fpdf ok'\\)\")",
+      "Bash(PYTHONIOENCODING=utf-8 python build_script.py)"
+    ]
+  }
+}
